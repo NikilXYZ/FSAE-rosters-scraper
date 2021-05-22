@@ -1,0 +1,117 @@
+[
+    {
+        "role": "Team Advisor",
+        "name": "Dr. Henry Pernicka",
+        "email": "pernicka@mst.edu"
+    },
+    {
+        "role": "Team Leader",
+        "name": "Zach 'Turbo' Hoffman",
+        "email": "zwhfkd@mst.edu"
+    },
+    {
+        "role": "Chief Engineer",
+        "name": "Jacob Parkhurst",
+        "email": "jrpzt4@mst.edu"
+    },
+    {
+        "role": "Secretary",
+        "name": "John Hansen",
+        "email": "jrhnmw@mst.edu"
+    },
+    {
+        "role": "Business Manager",
+        "name": "Chase Johnson",
+        "email": "chasejohnson@mst.edu"
+    },
+    {
+        "role": "Powertrain",
+        "name": "Ross Lippencott",
+        "email": "rgl3dd@umsystem.edu"
+    },
+    {
+        "role": "Vehicle Dynamics",
+        "name": "Jacob Parkhurst",
+        "email": "jrpzt4@mst.edu"
+    },
+    {
+        "role": "Manufacturing",
+        "name": "Trenton Childress",
+        "email": "tpcw9d@mst.edu"
+    },
+    {
+        "role": "Ian Law",
+        "name": "Electrical Lead",
+        "email": "ivhhc@umsystem.edu"
+    },
+    {
+        "role": "Aerodynamics",
+        "name": "Isaiah Morrow",
+        "email": "itmn74@mst.edu"
+    },
+    {
+        "role": "Composites",
+        "name": "Tyler Winner",
+        "email": "%20tjwnpf@umsystem.edu"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Zachary Freestone",
+        "email": "zbf6m4@mst.edu"
+    },
+    {
+        "role": "Brakes",
+        "name": "Aidan Greiner",
+        "email": "aag7h4@mst.edu"
+    },
+    {
+        "role": "Intake/Exhaust",
+        "name": "Mark Farr",
+        "email": "mafbyd@umsystem.edu"
+    },
+    {
+        "role": "Cooling",
+        "name": "Kaleb Tuinstra",
+        "email": "kmtt35@umsystem.edu"
+    },
+    {
+        "role": "Fuel/Oil",
+        "name": "Logan Chazen",
+        "email": "ldcpfd@umsystem.edu"
+    },
+    {
+        "role": "Steering & Controls",
+        "name": "Derek Edwards",
+        "email": "daemwp@umsystem.edu"
+    },
+    {
+        "role": "Suspension",
+        "name": "Jason Schlaud",
+        "email": "jasmyb@umsystem.edu"
+    },
+    {
+        "role": "Corners",
+        "name": "Joe Leonard",
+        "email": "jclrnq@mst.edu"
+    },
+    {
+        "role": "Front Wing",
+        "name": "Raymond Helmig",
+        "email": "rlhyyb@mst.edu"
+    },
+    {
+        "role": "Shop Manager",
+        "name": "Tyler Gastrich",
+        "email": "tjg86f@mst.edu"
+    },
+    {
+        "role": "Monocoque Research",
+        "name": "Warren Smith",
+        "email": "rlhyyb@umsystem.edu"
+    },
+    {
+        "role": "Frame",
+        "name": "Ian Herling",
+        "email": "idhmgh@mst.edu"
+    }
+]

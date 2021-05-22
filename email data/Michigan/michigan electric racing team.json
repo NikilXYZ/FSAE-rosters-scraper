@@ -1,0 +1,62 @@
+[
+    {
+        "role": "Project Manager",
+        "name": "Sean Phelan ",
+        "degree": "Sphel@umich.edu",
+        "email": ""
+    },
+    {
+        "role": "Technical Lead",
+        "name": "Fred Ouding",
+        "degree": "Fredavis@umich.edu",
+        "email": " "
+    },
+    {
+        "role": "Aerodynamics Lead",
+        "name": "Mitchell Houghtaling",
+        "degree": "Houghtm@umich.edu",
+        "email": " "
+    },
+    {
+        "role": "Business Lead",
+        "name": "Spencer Nguyen",
+        "degree": "1st Year Bba Student",
+        "email": "anhung@umich.edu"
+    },
+    {
+        "role": "Controls Lead",
+        "name": "Madeleine Bahorski",
+        "degree": "3rd Year Electrical Engineer",
+        "email": "mbahorksi@umich.edu"
+    },
+    {
+        "role": "Drivetrain Lead",
+        "name": "Richard Zhovner",
+        "degree": "2nd Year Mechanical Engineer",
+        "email": "rzhov@umich.edu"
+    },
+    {
+        "role": "Ergonomics Lead",
+        "name": "Sujay Racha",
+        "degree": "2nd Year Mechanical Engineer",
+        "email": "suracha@umich.edu"
+    },
+    {
+        "role": "Ev Powertrain Lead",
+        "name": "Jehian Kusumadjaja",
+        "degree": "3rd Year Computer Engineer",
+        "email": "jehiank@umich.edu"
+    },
+    {
+        "role": "Public Relations Chair",
+        "name": "Sahil Saini",
+        "degree": "4th Year Mechanical Engineer",
+        "email": "sssaini@umich.edu"
+    },
+    {
+        "role": "Vehicle Dynamic Control Lead",
+        "name": "Neel Patel",
+        "degree": "4th Year Mechanical Engineer",
+        "email": "nspatelz@umich.edu"
+    }
+]
