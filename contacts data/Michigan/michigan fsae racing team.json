@@ -1,0 +1,97 @@
+[
+    {
+        "role": "Team Captain",
+        "name": "Jared Dirksen",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Technical Director",
+        "name": "Teddy Gartland",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Chassis Director",
+        "name": "Jacob Thayer",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Driver Interface Lead",
+        "name": "Jackson MacLeod",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Monocoque Lead",
+        "name": "Jefferson Wang",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Brakes Lead",
+        "name": "Brendan Doherty",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Suspension Hardware Lead",
+        "name": "Luca Ranzani",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Vehicle Dynamics Lead",
+        "name": "Christopher Currey",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Drivetrain Lead",
+        "name": "Xuanwen Huang",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Powertrain Director",
+        "name": "Tom Eggleston",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Aerodynamics Lead",
+        "name": "Charly Zhang",
+        "degree": "Aerospace Engineering"
+    },
+    {
+        "role": "Electronics Lead",
+        "name": "Anya Svintsitski",
+        "degree": "Electrical Engineering"
+    },
+    {
+        "role": "Electronics Lead",
+        "name": "Alex Willis",
+        "degree": "Electrical Engineering"
+    },
+    {
+        "role": "Driver",
+        "name": "Jackson Macleod",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Driver",
+        "name": "Matt Parker",
+        "degree": "Industrial & Operations Engineering"
+    },
+    {
+        "role": "Glorified New Kid",
+        "name": "Taaron Foote",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Solder Lead",
+        "name": "Nithin Vedamuthu",
+        "degree": "Electrical Engineering"
+    },
+    {
+        "role": "Structual Simulation Lead",
+        "name": "Brendan Prast",
+        "degree": "Mechanical Engineering"
+    },
+    {
+        "role": "Business",
+        "name": "Matt Parker",
+        "degree": "Industrial & Operations Engineering"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "role": "Leadership Team  Captain",
+        "name": "Alex Amend"
+    },
+    {
+        "role": "Leadership Team Co-Captain",
+        "name": "Drew Kotnour"
+    },
+    {
+        "role": "Frame Lead",
+        "name": "Drew Kotnour"
+    },
+    {
+        "role": "Frame  Team Member",
+        "name": "Logan Hutchens"
+    },
+    {
+        "role": "Drivetrain  Lead",
+        "name": "Alex Amend"
+    },
+    {
+        "role": "Drivetrain  Junior Lead",
+        "name": "Jake O'Brien"
+    },
+    {
+        "role": "Drivetrain   Team Member",
+        "name": "Evan Jaffe"
+    },
+    {
+        "role": "Drivetrain   Team Member",
+        "name": "Abigail Wucherer"
+    },
+    {
+        "role": "Drivetrain   Team Member",
+        "name": "Obadele Akan"
+    },
+    {
+        "role": "Suspension Lead",
+        "name": "Katie Nelson"
+    },
+    {
+        "role": "Suspension Junior Lead",
+        "name": "Mackenzie Vinson"
+    },
+    {
+        "role": "Brakes Lead",
+        "name": "Eric Scanlon"
+    },
+    {
+        "role": "Brakes Co-Lead",
+        "name": "Chris Arnette"
+    },
+    {
+        "role": "Steering Junior Lead",
+        "name": "Ryan Babcock"
+    },
+    {
+        "role": "Ergonomics Electronics Junior Lead",
+        "name": "Patrick Ivey"
+    },
+    {
+        "role": "Ergonomics Composites Co-Lead",
+        "name": "Sean Fijen"
+    },
+    {
+        "role": "Ergonomics Electronics Member",
+        "name": "Matthew Houk"
+    },
+    {
+        "role": "Ergonomics Composites Co-Lead",
+        "name": "Tommy Ray"
+    },
+    {
+        "role": "Manufacturing Co-Lead",
+        "name": "Zak Olech"
+    },
+    {
+        "role": "Manufacturing Co-Lead",
+        "name": "Becca Hart"
+    },
+    {
+        "role": "Manufacturing Co-Lead",
+        "name": "Cole Hatchett"
+    },
+    {
+        "role": "Business Lead",
+        "name": "Will Reese"
+    }
+]

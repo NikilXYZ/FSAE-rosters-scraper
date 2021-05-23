@@ -1,0 +1,174 @@
+[
+    {
+        "role": "Project Manager",
+        "name": "Sean Phelan ",
+        "degree": "4th Year Mechanical Engineer",
+        "email": "Sphel@umich.edu"
+    },
+    {
+        "role": "Technical Lead",
+        "name": "Fred Ouding",
+        "degree": "4th Year Mechanical Engineer",
+        "email": "Fredavis@umich.edu"
+    },
+    {
+        "role": "Aerodynamics Lead",
+        "name": "Mitchell Houghtaling",
+        "degree": "4th Year Aerospace Engineer",
+        "email": "Houghtm@umich.edu"
+    },
+    {
+        "role": "Business Lead",
+        "name": "Spencer Nguyen",
+        "degree": "1st Year Bba Student",
+        "email": "anhung@umich.edu"
+    },
+    {
+        "role": "Controls Lead",
+        "name": "Madeleine Bahorski",
+        "degree": "3rd Year Electrical Engineer",
+        "email": "mbahorksi@umich.edu"
+    },
+    {
+        "role": "Drivetrain Lead",
+        "name": "Richard Zhovner",
+        "degree": "2nd Year Mechanical Engineer",
+        "email": "rzhov@umich.edu"
+    },
+    {
+        "role": "Ergonomics Lead",
+        "name": "Sujay Racha",
+        "degree": "2nd Year Mechanical Engineer",
+        "email": "suracha@umich.edu"
+    },
+    {
+        "role": "Ev Powertrain Lead",
+        "name": "Jehian Kusumadjaja",
+        "degree": "3rd Year Computer Engineer",
+        "email": "jehiank@umich.edu"
+    },
+    {
+        "role": "Public Relations Chair",
+        "name": "Sahil Saini",
+        "degree": "4th Year Mechanical Engineer",
+        "email": "sssaini@umich.edu"
+    },
+    {
+        "role": "Vehicle Dynamic Control Lead",
+        "name": "Neel Patel",
+        "degree": "4th Year Mechanical Engineer",
+        "email": "nspatelz@umich.edu"
+    },
+    {
+        "role": "Aerodynamics",
+        "name": "Brian Delgado"
+    },
+    {
+        "role": "Aerodynamics",
+        "name": "Ani Attaluri"
+    },
+    {
+        "role": "Aerodynamics",
+        "name": "Gaurang Vaidya"
+    },
+    {
+        "role": "Business",
+        "name": "Matthew Allore"
+    },
+    {
+        "role": "Business",
+        "name": "Andrew Schweers"
+    },
+    {
+        "role": "Business",
+        "name": "Joshua Memmesheimer"
+    },
+    {
+        "role": "Business",
+        "name": "Dhiya Krupashankar"
+    },
+    {
+        "role": "Business",
+        "name": "Raghav Ramesh"
+    },
+    {
+        "role": "Business",
+        "name": "Marius Vava"
+    },
+    {
+        "role": "Controls",
+        "name": "Madeleine Bahorski"
+    },
+    {
+        "role": "Controls",
+        "name": "Ryan Needle"
+    },
+    {
+        "role": "Controls",
+        "name": "Rajiv Bharadwaj"
+    },
+    {
+        "role": "Controls",
+        "name": "Johnny Jia"
+    },
+    {
+        "role": "Controls",
+        "name": "Cate Sullivan"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Christian Nunez"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Christian Zung"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Dity Bhatnagar"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Fadey Rayyan"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Jacob Fischette"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Luthfor Khan"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Meng Shi"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Nolan Hornby"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Rebecca Snyder"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Robert Nawara"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Sarah Snyder"
+    },
+    {
+        "role": "Ergonomics",
+        "name": "Vincenzo Scalise"
+    },
+    {
+        "role": "Ergonomics",
+        "name": "Nick Johnson"
+    },
+    {
+        "role": "Ergonomics",
+        "name": "Jeremy Wang"
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "role": "IC Car Captain",
+        "name": "Jalen Smith"
+    },
+    {
+        "role": "Electric Car Captain",
+        "name": "Steven Griffin"
+    },
+    {
+        "role": "Chassis Team Lead",
+        "name": "JP Cantonwine"
+    },
+    {
+        "role": "Chassis Team Member",
+        "name": "Parker Eaton"
+    },
+    {
+        "role": "Chassis Team Member",
+        "name": "Frank Cilano"
+    },
+    {
+        "role": "Chassis Team Member",
+        "name": "Leo Perez Santaolaya"
+    },
+    {
+        "role": "Suspension Team Lead",
+        "name": "Karenna Levin"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Aaron Crum"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Dawud Ghazaleh"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Joey Leptich"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Daniel Marro"
+    },
+    {
+        "role": "Powertrain Team Lead",
+        "name": "Erika Bogue"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Austin Bogue"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Evan Raynor"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Elton Padua"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Collin McClure"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Jake Scinta"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Scott Davis"
+    },
+    {
+        "role": "Electronics Team Lead",
+        "name": "Justin Wald"
+    },
+    {
+        "role": "Electronics Team Member",
+        "name": "Scott McDaniel"
+    },
+    {
+        "role": "Electronics Team Member",
+        "name": "Michael Dayan"
+    },
+    {
+        "role": "Aerodynamics Team Lead",
+        "name": "Seth Dillard"
+    },
+    {
+        "role": "Aerodynamics Team Member",
+        "name": "Michael McKenna"
+    },
+    {
+        "role": "Team Member",
+        "name": "Shelby Neal Aerodynamics"
+    },
+    {
+        "role": "Team Member",
+        "name": "Joseph Blanchard Aerodynamics"
+    },
+    {
+        "role": "Manufacturing Team Lead",
+        "name": "Justin Woodruff"
+    },
+    {
+        "role": "Electric Car Team Member",
+        "name": "Victor Jimenez"
+    },
+    {
+        "role": "Electric Car Team Member",
+        "name": "John Siddiqui"
+    },
+    {
+        "role": "E Car Team Member",
+        "name": "Emily Applegate"
+    },
+    {
+        "role": "E Car Team Member",
+        "name": "Charlie Osborn"
+    }
+][
+    {
+        "role": "IC Car Captain",
+        "name": "Jalen Smith"
+    },
+    {
+        "role": "Electric Car Captain",
+        "name": "Steven Griffin"
+    },
+    {
+        "role": "Chassis Team Lead",
+        "name": "JP Cantonwine"
+    },
+    {
+        "role": "Chassis Team Member",
+        "name": "Parker Eaton"
+    },
+    {
+        "role": "Chassis Team Member",
+        "name": "Frank Cilano"
+    },
+    {
+        "role": "Santaolaya Chassis Team Member",
+        "name": "Leo Perez"
+    },
+    {
+        "role": "Suspension Team Lead",
+        "name": "Karenna Levin"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Aaron Crum"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Dawud Ghazaleh"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Joey Leptich"
+    },
+    {
+        "role": "Suspension Team Member",
+        "name": "Daniel Marro"
+    },
+    {
+        "role": "Powertrain Team Lead",
+        "name": "Erika Bogue"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Austin Bogue"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Evan Raynor"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Elton Padua"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Collin McClure"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Jake Scinta"
+    },
+    {
+        "role": "Powertrain Team Member",
+        "name": "Scott Davis"
+    },
+    {
+        "role": "Electronics Team Lead",
+        "name": "Justin Wald"
+    },
+    {
+        "role": "Electronics Team Member",
+        "name": "Scott McDaniel"
+    },
+    {
+        "role": "Electronics Team Member",
+        "name": "Michael Dayan"
+    },
+    {
+        "role": "Aerodynamics Team Lead",
+        "name": "Seth Dillard"
+    },
+    {
+        "role": "Aerodynamics Team Member",
+        "name": "Michael McKenna"
+    },
+    {
+        "role": "Team Member",
+        "name": "Shelby Neal Aerodynamics"
+    },
+    {
+        "role": "Team Member",
+        "name": "Joseph Blanchard Aerodynamics"
+    },
+    {
+        "role": "Manufacturing Team Lead",
+        "name": "Justin Woodruff"
+    },
+    {
+        "role": "Electric Car Team Member",
+        "name": "Victor Jimenez"
+    },
+    {
+        "role": "Electric Car Team Member",
+        "name": "John Siddiqui"
+    },
+    {
+        "role": "Electric Car Team Member",
+        "name": "Emily Applegate"
+    },
+    {
+        "role": "Electric Car Team Member",
+        "name": "Charlie Osborn"
+    }
+]

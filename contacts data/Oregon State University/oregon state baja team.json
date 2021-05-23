@@ -1,0 +1,106 @@
+[
+    {
+        "role": "Drivetrain",
+        "name": "Blake Coomes"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Chengda Li"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Bryce Kinney"
+    },
+    {
+        "role": "Drivetrain",
+        "name": "Richard Schurter"
+    },
+    {
+        "role": "Chassis & Driver Control",
+        "name": "Hunter Rust"
+    },
+    {
+        "role": "Chassis & Driver Control",
+        "name": "Dominic Mikalson"
+    },
+    {
+        "role": "Chassis & Driver Control",
+        "name": "Thomas Sangillo"
+    },
+    {
+        "role": "CVT",
+        "name": "Tanner Asher"
+    },
+    {
+        "role": "CVT",
+        "name": "Nicholas Wilson"
+    },
+    {
+        "role": "CVT",
+        "name": "Gerardo Zavalsa"
+    },
+    {
+        "role": "CVT",
+        "name": "Samuel Hanson-Richter"
+    },
+    {
+        "role": "CVT",
+        "name": "Nathaniel Garcia"
+    },
+    {
+        "role": "Suspension",
+        "name": "Luis Yanez-Romero"
+    },
+    {
+        "role": "Suspension",
+        "name": "Sheldon Lim"
+    },
+    {
+        "role": "Suspension",
+        "name": "Taichi Terakawa"
+    },
+    {
+        "role": "Suspension",
+        "name": "Kevin Dang"
+    },
+    {
+        "role": "Suspension",
+        "name": "Kingsley Kwan"
+    },
+    {
+        "role": "Management",
+        "name": "Fallon Peters"
+    },
+    {
+        "role":"General Member",
+        "name": "Avery Echenrode"
+    },
+    {
+        "role":"General Member",
+        "name": "Myla Garlitz"
+    },
+    {
+        "role":"General Member",
+        "name": "Gordon Kitchener"
+    },
+    {
+        "role":"General Member",
+        "name": "Allyson Stansell"
+    },
+    {
+        "role":"General Member",
+        "name": "Charlie O'Brien"
+    },
+    {
+        "role":"General Member",
+        "name": "Sheldon Lim"
+    },
+    {
+        "role":"General Member",
+        "name": "Josh Collins"
+    },
+    {
+        "role":"General Member",
+        "name": "Henry Gillepsie"
+    }
+]

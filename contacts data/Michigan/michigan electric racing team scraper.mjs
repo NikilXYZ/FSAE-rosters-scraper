@@ -19,6 +19,7 @@ let team_leads = team_leads_elements.map(
 )
 // We're using nth-last-child on some because 
 // Neel's is broken: they added an extra line to his role to fit the word "LEAD"
+// and nth-last-child doesn't work for the first 2 because there's an empty p tag at the bottom for some reason
 
 ppl = ppl.filter(person => person.role !== null && person.name !== null && person.email !== null)
 
@@ -33,3 +34,5 @@ copy(ppl)
 
 // rest of team
 let sub_team_elements = ppl_elements_array.slice(11, 28)
+sub_team_elements = sub_team_elements.filter(element => element.classList.contains("elementor-element-populated"))
+// honestly it's just easier to copy manually

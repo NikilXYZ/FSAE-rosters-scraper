@@ -1,0 +1,30 @@
+[
+    {
+        "role": "Team Captain",
+        "name": "Hasan Mahmood"
+    },
+    {
+        "role": "Chief Engineer",
+        "name": "Dylan White"
+    },
+    {
+        "role": "Chassis Lead",
+        "name": "Gurtej \"Sunny\" Channa"
+    },
+    {
+        "role": "Composites Lead",
+        "name": "Kencey Christopher"
+    },
+    {
+        "role": "Engine Lead",
+        "name": "Varun Tamilselvan"
+    },
+    {
+        "role": "R&D Lead",
+        "name": "Tim Stevens"
+    },
+    {
+        "role": "Suspension Lead",
+        "name": "Chris Dunn"
+    }
+]
