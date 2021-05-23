@@ -1,0 +1,102 @@
+[
+    {
+        "role": "Project Manager",
+        "name": "Dalton Engelbart",
+        "degree": "​Mechanical Engineering ",
+        "graduation year": 2019
+    },
+    {
+        "role": "Chief Engineer",
+        "name": "Logan Altman",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2020
+    },
+    {
+        "role": "Powertrain Team",
+        "name": "Max Boslaugh",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2022
+    },
+    {
+        "role": "Powertrain Team",
+        "name": "Adam Johnson",
+        "degree": "​Mechanical Engineering",
+        "graduation year": 2022
+    },
+    {
+        "role": "Suspension Team",
+        "name": "Zachary Mollohan",
+        "degree": "​Mechanical Engineering",
+        "graduation year": 2025
+    },
+    {
+        "role": "Chassis Lead",
+        "name": "Bricen Margritz",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2020
+    },
+    {
+        "role": "Electrical Lead",
+        "name": "Grace Larsen",
+        "degree": "Electrical Engineering",
+        "graduation year": 2022
+    },
+    {
+        "role": "Powertrain Team",
+        "name": "Nicholas Eichelberger",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2019
+    },
+    {
+        "role": "Suspension Team",
+        "name": "Joseph Ehrisman",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2019
+    },
+    {
+        "role": "Aerodynamics Team",
+        "name": "Trent Stobaugh",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2020
+    },
+    {
+        "role": "Chassis Lead",
+        "name": "Joseph Clayton",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2025
+    },
+    {
+        "role": "Shop Manager",
+        "name": "Kyle Bohling",
+        "degree": "Mech Systems",
+        "graduation year": 2020
+    },
+    {
+        "role": "Powertrain Team",
+        "name": "Isaac Klar",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2022
+    },
+    {
+        "role": "Suspension Team",
+        "name": "Peyton Stanczyk",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2019
+    },
+    {
+        "role": "Aerodynamics Lead",
+        "name": "Kaleab Mengistu",
+        "degree": "Mechanical Engineering",
+        "graduation year": 2022
+    },
+    {
+        "role": "Electrical Lead",
+        "name": "Dawson Miller",
+        "degree": "Electrical Engineering",
+        "graduation year": 2020
+    },
+    {
+        "role": "Faculty Advisor",
+        "name": "Dr. Michael Sealy"
+    }
+]

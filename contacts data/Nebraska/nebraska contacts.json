@@ -1,0 +1,22 @@
+[
+    {
+        "role": "Captain",
+        "name": "John Kolar",
+        "email": "johnkolar@huskers.unl.edu",
+        "phone": "(248)-688-7444"
+    },
+    {
+        "role": "Project Manager",
+        "name": "Galen Kramer"
+    },
+    {
+        "role": "Project Manager",
+        "name": "Andrew Johnson"
+    },
+    {
+        "role": "Adviser",
+        "name": "Dr. Sangjin Ryu",
+        "email": "sangjin.ryu@unl.edu",
+        "phone": "(402) 472-4313"
+    }
+]

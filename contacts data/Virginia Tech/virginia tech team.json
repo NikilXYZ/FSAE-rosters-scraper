@@ -1,0 +1,37 @@
+[
+    {
+        "role": "Team Lead",
+        "name": "Josh Kintz",
+        "email": "joshk919@vt.edu"
+    },
+    {
+        "role": "Suspension Lead",
+        "name": "Matt Watterson",
+        "email": "mwatters@vt.edu"
+    },
+    {
+        "role": "​Electric Powertrain Lead",
+        "name": "Adam Yi",
+        "email": "adamkyi@vt.edu"
+    },
+    {
+        "role": "​Drivetrain Lead",
+        "name": "Srivatsa Harish",
+        "email": "sharish@vt.edu"
+    },
+    {
+        "role": "Engine Lead",
+        "name": "Tyler Martin",
+        "email": "tyler18@vt.edu"
+    },
+    {
+        "role": "Testing Lead",
+        "name": "Haley Simkins",
+        "email": "haleyss@vt.edu"
+    },
+    {
+        "role": "Business Lead",
+        "name": "Zach Rubin",
+        "email": "zachrubin@vt.edu"
+    }
+]
