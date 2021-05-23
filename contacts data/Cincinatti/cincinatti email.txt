@@ -1,0 +1,3 @@
+Bcms@ucmail.uc.edu
+// there was no other contact info
+// we will need to extract names from linkedin
