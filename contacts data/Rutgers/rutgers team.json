@@ -1,0 +1,54 @@
+[
+    {
+        "role": "President",
+        "name": "Alan Juthapornmanee"
+    },
+    {
+        "role": "Vice President",
+        "name": "Arnav Chenemilla"
+    },
+    {
+        "role": "Project Manager",
+        "name": "Kishan Patel"
+    },
+    {
+        "role": "Treasurer",
+        "name": "Alvin Cheng"
+    },
+    {
+        "role": "Controls/EGC Rep",
+        "name": "Nyles Gamble"
+    },
+    {
+        "role": "Aerodynamics",
+        "name": "Isaac Paez"
+    },
+    {
+        "role": "Chassis",
+        "name": "Dahany Choi"
+    },
+    {
+        "role": "Suspension",
+        "name": "Julian Sowa"
+    },
+    {
+        "role": "Brakes",
+        "name": "Sean Wheat"
+    },
+    {
+        "role": "Data Aquisition",
+        "name": "Greg Scatko"
+    },
+    {
+        "role": "Powertrain",
+        "name": "Alex Bertucci"
+    },
+    {
+        "role": "Composites",
+        "name": "Henry Fechelm"
+    },
+    {
+        "role": "Electronics",
+        "name": "Mazen Abdalla"
+    }
+]
