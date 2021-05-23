@@ -1,0 +1,134 @@
+[
+    {
+        "role": "Team Captain",
+        "name": "Jeff DiSante"
+    },
+    {
+        "role": "Powertrain Lead",
+        "name": "Logan Mitchell"
+    },
+    {
+        "role": "Vehicle Dynamics Lead",
+        "name": "Michael Metropoulos"
+    },
+    {
+        "role": "Manufacturing Lead",
+        "name": "John Milbrandt"
+    },
+    {
+        "role": "Accounting",
+        "name": "Bershann Bounds"
+    },
+    {
+        "role": "Brakes Lead",
+        "name": "Robert Kucera"
+    },
+    {
+        "role": "Suspension Lead",
+        "name": "Ray Hilbert"
+    },
+    {
+        "role": "Aerodynamics Lead",
+        "name": "Patrick Kruse"
+    },
+    {
+        "role": "Aerodynamics Support",
+        "name": "David McVan"
+    },
+    {
+        "role": "Drivetrain Lead",
+        "name": "Matt Riczo"
+    },
+    {
+        "role": "Engine Support ",
+        "name": "Jacob Greer"
+    },
+    {
+        "role": "Electrical Lead",
+        "name": "Clayton Brown"
+    },
+    {
+        "role": "Engine Support",
+        "name": "Jordan Blake"
+    },
+    {
+        "role": "Electrical Support ",
+        "name": "Maria Hatzis"
+    },
+    {
+        "role": "Electrical Support",
+        "name": "Luke Rogers"
+    },
+    {
+        "role": "Electrical Support",
+        "name": "Josh Bunday"
+    },
+    {
+        "role": "Engine Support",
+        "name": "Sidney Mingle"
+    },
+    {
+        "role": "Engine Support",
+        "name": "Troy Smith"
+    },
+    {
+        "role": "Powertrain Support",
+        "name": "Emily Greene"
+    },
+    {
+        "role": "Chassis Lead",
+        "name": "Stuart Thornborough"
+    },
+    {
+        "role": "Composites Lead",
+        "name": "Henry Wathen "
+    },
+    {
+        "role": "Composites Support ",
+        "name": "Brian Heller"
+    },
+    {
+        "role": "Manufacturing Support",
+        "name": "Auston Obringer"
+    },
+    {
+        "role": "Chassis Support",
+        "name": "Craig Hanchett"
+    },
+    {
+        "role": "Manufacturing Support",
+        "name": "David Bartsch"
+    },
+    {
+        "role": "Composites Support",
+        "name": "Calan wensing"
+    },
+    {
+        "role": "Composites Support",
+        "name": "Luke Musil"
+    },
+    {
+        "role": "Composites Support",
+        "name": "Jackson Dienes"
+    },
+    {
+        "role": "Business Lead ",
+        "name": "David Bartsch"
+    },
+    {
+        "role": "Business Support",
+        "name": "Sidney Mingle"
+    },
+    {
+        "role": "Business Support ",
+        "name": "Matt Riczo"
+    },
+    {
+        "role": "Business Support ",
+        "name": "David Mcvan"
+    },
+    {
+        "role": "Business Support",
+        "name": "Bershann Bounds "
+    }
+]
