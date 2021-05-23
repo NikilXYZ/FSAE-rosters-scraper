@@ -1,0 +1,333 @@
+[
+    {
+        "role": "President",
+        "name": "Griffin Della Grotte"
+    },
+    {
+        "role": "VP of Energetics",
+        "name": "Oliver Wang"
+    },
+    {
+        "role": "VP of Finance",
+        "name": "Julia Lu"
+    },
+    {
+        "role": "VP of Structures",
+        "name": "Aidan Honnold"
+    },
+    {
+        "role": "VP of Marketing and Outreach",
+        "name": "Danny Marks"
+    },
+    {
+        "role": "VP of Competitive Analysis and Strategic Direction",
+        "name": "Andrew Fu"
+    },
+    {
+        "role": "Aerodynamics and Composites Manager",
+        "name": "Aaron McKenzie"
+    },
+    {
+        "role": "Wings",
+        "name": "Annette Guo"
+    },
+    {
+        "role": "Diffuser",
+        "name": "Andrew Fu"
+    },
+    {
+        "role": "Driver Interface Manager",
+        "name": "Danny Marks"
+    },
+    {
+        "role": "Pedals",
+        "name": "Arushi Singh"
+    },
+    {
+        "role": "Steering Wheel",
+        "name": "Nick Saizan"
+    },
+    {
+        "role": "Powertrain Manager",
+        "name": "Greg Woelki"
+    },
+    {
+        "role": "Hubs",
+        "name": "Shuming Teoh"
+    },
+    {
+        "role": "Brakes",
+        "name": "Tim Violino"
+    },
+    {
+        "role": "Cooling - Drivetrain",
+        "name": "Laura Ochsner"
+    },
+    {
+        "role": "Cooling - Radiator and Loop",
+        "name": "Doria Pei"
+    },
+    {
+        "role": "Suspension Manager",
+        "name": "Luis Martinez"
+    },
+    {
+        "role": "Chassis",
+        "name": "Julia Lu"
+    },
+    {
+        "role": "Uprights",
+        "name": "Jac Council"
+    },
+    {
+        "role": "Welding",
+        "name": "Terrence Frey"
+    },
+    {
+        "role": "Control Arms",
+        "name": "Justin Chung"
+    },
+    {
+        "role": "Control Arms",
+        "name": "Jason Li"
+    },
+    {
+        "role": "Bellcranks & Dampers",
+        "name": "Spencer Bowman"
+    },
+    {
+        "role": "Anti-Roll Bars",
+        "name": "Emilio Guevara"
+    },
+    {
+        "role": "Steering",
+        "name": "Eli Zidel"
+    },
+    {
+        "role": "Two Force Members",
+        "name": "Jaime Romero"
+    },
+    {
+        "role": "Two Force Members",
+        "name": "Chris Chang"
+    },
+    {
+        "role": "Jigs",
+        "name": "Ivy He"
+    },
+    {
+        "role": "Jigs",
+        "name": "Victoria Han"
+    },
+    {
+        "role": "Jigs",
+        "name": "Nico Murolo"
+    },
+    {
+        "role": "Jigs",
+        "name": "Simon Yu"
+    },
+    {
+        "name": "Alex White"
+    },
+    {
+        "role": "Core Grounded Low Voltage Captain",
+        "name": "Mrinali Nakhre"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Divya Aggarwal"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Larry Geng"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Mukundh Balajee"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Nick Saizan"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Oliver Wang"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Rashi Kejriwal"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Spandan Sharma"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Ashwin Godura"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Devan Grover"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Iris Dong"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Omkar Savkur"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Caroline Kasuba"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Eliezer Olivares"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Navod Jayawardhane"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Esther Bedoyan"
+    },
+    {
+        "role": "Core Grounded Low Voltage",
+        "name": "Gustav Hansen"
+    },
+    {
+        "role": "Grounded Low Voltage Development Captain",
+        "name": "Saral Tayal"
+    },
+    {
+        "role": "Grounded Low Voltage Development",
+        "name": "Vamsi Ratnakaram"
+    },
+    {
+        "role": "Grounded Low Voltage Development",
+        "name": "Bharath Sreenivas"
+    },
+    {
+        "role": "Grounded Low Voltage Development",
+        "name": "Sebastian Garcia"
+    },
+    {
+        "role": "Grounded Low Voltage Development",
+        "name": "Prithu Pareek"
+    },
+    {
+        "role": "Grounded Low Voltage Development",
+        "name": "Jeff Tan"
+    },
+    {
+        "role": "Grounded Low Voltage Development",
+        "name": "Griffin Della Grotte"
+    },
+    {
+        "role": "Grounded Low Voltage Development",
+        "name": "Ravi Dudhagra"
+    },
+    {
+        "role": "Firmware Captain",
+        "name": "Jason Lu"
+    },
+    {
+        "role": "Firmware",
+        "name": "Omkar Savkur"
+    },
+    {
+        "role": "Firmware",
+        "name": "Oliver Wang"
+    },
+    {
+        "role": "Firmware",
+        "name": "Vamsi Ratnakaram"
+    },
+    {
+        "role": "Firmware",
+        "name": "Abhishek Agarwal"
+    },
+    {
+        "role": "Firmware",
+        "name": "Amy Lin"
+    },
+    {
+        "role": "Firmware",
+        "name": "Derek Duenas"
+    },
+    {
+        "role": "Firmware",
+        "name": "Gustav Hansen"
+    },
+    {
+        "role": "Firmware",
+        "name": "Ishraaq Shams"
+    },
+    {
+        "role": "Firmware",
+        "name": "Joey Wildman"
+    },
+    {
+        "role": "Firmware",
+        "name": "Keren Huang"
+    },
+    {
+        "role": "High Voltage Accumulator Captain",
+        "name": "Jeannie Ruffley"
+    },
+    {
+        "role": "High Voltage Accumulator",
+        "name": "Hongyi Lin"
+    },
+    {
+        "role": "High Voltage Accumulator",
+        "name": "Corrado Govea"
+    },
+    {
+        "role": "High Voltage Accumulator",
+        "name": "Jonathan Li"
+    },
+    {
+        "role": "High Voltage Accumulator",
+        "name": "Vikram Marmer"
+    },
+    {
+        "role": "High Voltage Accumulator",
+        "name": "Oliver Wang"
+    },
+    {
+        "role": "High Voltage Tractive Systems Captain",
+        "name": "Vikram Marmer"
+    },
+    {
+        "role": "High Voltage Tractive Systems",
+        "name": "Patrick Joyce"
+    },
+    {
+        "role": "High Voltage Tractive Systems",
+        "name": "Oliver Wang"
+    },
+    {
+        "role": "High Voltage Tractive Systems",
+        "name": "Hongyi Lin"
+    },
+    {
+        "role": "High Voltage Tractive Systems",
+        "name": "Saral Tayal"
+    },
+    {
+        "role": "High Voltage Tractive Systems",
+        "name": "Griffin Della Grotte"
+    },
+    {
+        "role": "High Voltage Tractive Systems",
+        "name": "Kevin Song"
+    },
+    {
+        "role": "High Voltage Tractive Systems",
+        "name": "Mihir Lovalekar"
+    }
+]
