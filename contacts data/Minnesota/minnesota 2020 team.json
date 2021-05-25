@@ -1,0 +1,50 @@
+[
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "President",
+        "name": "Jack Erickson"
+    },
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "Chief Engineer",
+        "name": "Ryan Dunk"
+    },
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "Project Manager",
+        "name": "Nathan Goldman"
+    },
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "Aerodynamics Lead",
+        "name": "Tyler Glick"
+    },
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "Electrical Lead",
+        "name": "Henry O'Callaghan"
+    },
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "Engine Lead",
+        "name": "Mica Johnson"
+    },
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "Ergonomics Lead",
+        "name": "James Wenzel"
+    },
+    {
+        "school": "University of Minnesota",
+        "team type": "Combustion",
+        "role": "Frame & Suspension",
+        "name": "Jacob Storrs"
+    }
+]
