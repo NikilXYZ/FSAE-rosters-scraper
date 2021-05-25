@@ -3,7 +3,7 @@
 
 let team_containers = document.querySelectorAll(".gtr-uniform")
 
-let current_team = team_containers[0].children[0].children[0].children
+let current_team = Array.from(team_containers[0].children[0].children[0].children)
 let past_teams = team_containers[1].children
 
 let just_finished_team = Array.from(past_teams[0].children[0].children)
