@@ -2,190 +2,185 @@
     {
         "school": "University of Michigan",
         "team type": "Baja",
-        "role": "Team Captain​, R&D",
-        "name": "Erica Tevere ",
-        "major": "Mechanical Engineering, 2019"
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Baja",
-        "role": "Technical Director, Suspension",
-        "name": "Kyle Reppenhagen",
-        "major": "Mechanical Engineering, 2019"
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Baja",
-        "role": "Manufacturing Director, CVT ",
-        "name": "Jeremiah Johnson",
-        "major": "Mechanical Engineering, 2019"
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Baja",
-        "role": "Treasurer​, Joints & Axles",
-        "name": "Cameron Rosen",
-        "major": "Mechanical Engineering, 2020"
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Baja",
         "role": "Four Wheel Drive",
         "name": "Stephanie Fox",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Gearbox & Four Wheel Drive",
         "name": "Mitchell Hayes",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "CVT",
         "name": "Lorenzo Spagnuolo",
-        "major": "Mechanical Engineering, 2022"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "CVT",
         "name": "Bill Wolf",
-        "major": "Undeclared, 2023"
+        "major": "Undeclared",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Team Captain",
         "name": "Hector Clarke",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Technical Director",
         "name": "Carlos Cipollitti",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Manufacturing Director",
         "name": "Devin Ardeshna",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Treasurer",
         "name": "Stephanie Fox",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "CVT",
         "name": "Jake Gates",
-        "major": "Undeclared, 2023"
+        "major": "Undeclared",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Joints and Axles",
         "name": "Brenden Moers",
-        "major": "Undeclared 2023"
+        "major": "Undeclared",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Frame",
         "name": "Nathan Kim",
-        "major": "Mechanical Engineering, 2023"
+        "major": "Mechanical Engineering",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Driver Controls",
         "name": "Nick Matthews",
-        "major": "Undeclared, 2023"
+        "major": "Undeclared",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": " Composites",
         "name": "Joe Williams",
-        "major": "Mechanical Engineering, 2022"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Composites",
         "name": "Sam Orta",
-        "major": "Environ. Engineering, 2023"
+        "major": "Environ",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Suspension Structures",
         "name": "Leo Santos",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Suspension Structures",
         "name": "Dominique Tan-Ng",
-        "major": "Mechanical Engineering, 2022"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Suspension Kinematics",
         "name": "Julian Malevanets",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Suspension Kinematics",
         "name": "Justin Osborn",
-        "major": "Mechanical Engineering, 2022"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Brakes",
         "name": "Jacob Miller",
-        "major": "Chemical Engineering, 2023"
+        "major": "Chemical Engineering",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Brakes",
         "name": "Reid Backus",
-        "major": "Mechanical Engineering, 2023"
+        "major": "Mechanical Engineering",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Steering",
         "name": "Liz Chang",
-        "major": "Mechanical Engineering, 2023"
+        "major": "Mechanical Engineering",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "Steering",
         "name": "Evelyn Sorgenfrei",
-        "major": "Mechanical Engineering, 2023"
+        "major": "Mechanical Engineering",
+        "graduation year": 2023
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
         "role": "CNC Manufacturing",
         "name": "Devin Ardeshna",
-        "major": "Mechanical Engineering, 2021"
+        "major": "Mechanical",
+        "graduation year": 2021
     }
 ]
