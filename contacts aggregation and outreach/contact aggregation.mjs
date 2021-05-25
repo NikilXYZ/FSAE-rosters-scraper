@@ -9,6 +9,4 @@ let json_merger = (accumulator, current_value) => current_value.concat(accumulat
 
 let merged_json = json_lists.reduce(json_merger)
 
-// let merged_json_file = jsonMerger.mergeFiles(team_files)
-
-let x = 2
+fs.writeFileSync("all fsae students.json", JSON.stringify(merged_json))
