@@ -1,0 +1,86 @@
+[
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "President",
+        "name": "Cal Pitruzzello",
+        "email": "cal.pitruzzello@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Chief Engineer",
+        "name": "Adam Velardi",
+        "email": "adam.velardi@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Treasurer",
+        "name": "Parth Kekare",
+        "email": "parth.kekare@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Business/Secretary",
+        "name": "Brandon Koehler",
+        "email": "brandon.koehler@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Aerodynamics",
+        "name": "Natalie Connors",
+        "email": "natalie.connors@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Composites",
+        "name": "Liam Gerety",
+        "email": "liam.gerety@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Controls and Ergonomics",
+        "name": "Simon Getter",
+        "email": "simon.getter@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Data Acquisition",
+        "name": "Gus Pac",
+        "email": "augustus.pac@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Electrical",
+        "name": "Stephen Pang",
+        "email": "stephen.pang@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Frame",
+        "name": "Emma Finnerty",
+        "email": "emma.finnerty@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Powertrain",
+        "name": "Kurt Jonke",
+        "email": "kurt.jonke@uconn.edu"
+    },
+    {
+        "school": "University of Connecticut",
+        "team type": "Combustion",
+        "role": "Suspension",
+        "name": "Natalie Paliulis",
+        "email": "natalie.paliulis@uconn.edu"
+    }
+]

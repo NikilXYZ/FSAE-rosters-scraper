@@ -1,0 +1,98 @@
+[
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Team Manager",
+        "name": "Stephen Thomas",
+        "major": "Mechanical Engineering",
+        "email": "mailto:swthomas@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Engineering Manager",
+        "name": "Garret Kingsbury",
+        "email": "mailto:gekingsbury@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Business Manager",
+        "name": "Jacob Paul",
+        "email": "mailto:jbpaul@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Frame Lead",
+        "name": "Joshua Cook",
+        "major": "Mechanical Engineering",
+        "email": "mailto:jacook10@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Composites Lead",
+        "name": "Max Glaser",
+        "major": "Mechanical Engineering",
+        "email": "mailto:mmglaser@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Powertrain Lead",
+        "name": "Noah Greer",
+        "email": "mailto:ndgreer@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Aerodynamics Lead",
+        "name": "Markian Kuropas",
+        "major": "Aerospace Engineering",
+        "email": "mailto:mjkuropas@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Suspension Lead",
+        "name": "Mason Maze",
+        "major": "Mechanical Engineering",
+        "email": "mailto:mkmaze@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Electrical Lead",
+        "name": "Aaron Suarez",
+        "email": "mailto:ahsuarez@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Manufacturing Lead",
+        "name": "Christian Austin",
+        "email": "mailto:claustin1@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Advertising Lead",
+        "name": "Samantha Boggs",
+        "email": "mailto:sboggs1@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Financial Lead",
+        "name": "Ben Silvey",
+        "email": "mailto:basilvey@crimson.ua.edu"
+    },
+    {
+        "school": "University of Alabama",
+        "team type": "Combustion",
+        "role": "Presentation Lead",
+        "name": "Lauren Woods",
+        "email": "mailto:lewoods1@crimson.ua.edu"
+    }
+]
