@@ -23,7 +23,7 @@ let ppl = ppl_elements.map(person_element => {
     person["role"] = additional_details["Role"]
     person["name"] = person_element.querySelector("a").innerText.replace(/[^\S\r\n]+/g, ' ').trim()
     person["major"] = additional_details["Major"]
-    person["email"] = person_element.querySelector("a").href
+    person["email"] = person_element.querySelector("a").href.replace("mailto:","")
 
     return person
 })

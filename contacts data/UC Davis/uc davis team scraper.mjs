@@ -11,8 +11,10 @@ let ppl = ppl_elements.map(person_element => {
         "name": person_element.children[0].innerText,
     }
     
-    // some reason, they use a non-breaking space 0xA0. Converting that to regular space first
-    let additional_details = person_element.children[1].children[1].innerText
+    // some reason <br> doesn't get translated to newline. I'm pretty sure it normally does
+    let corrected_html = new DOMParser().parseFromString(person_element.children[1].children[1].innerHTML.replace(/<br>/g,"\n"), 'text/html')
+    // they also use a non-breaking space 0xA0. Converting that to regular space first
+    let additional_details = corrected_html.querySelector("body").innerText
     .replace(/[^\S\r\n]+/g, ' ')
     .split("\n")
     .map(detail_key_value_string => detail_key_value_string.split(": "))
@@ -32,3 +34,5 @@ let ppl = ppl_elements.map(person_element => {
 
     return person
 })
+
+copy(ppl)
