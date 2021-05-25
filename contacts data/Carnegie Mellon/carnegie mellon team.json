@@ -1,193 +1,193 @@
 [
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "President",
         "name": "Griffin Della Grotte"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "VP of Energetics",
         "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "VP of Finance",
         "name": "Julia Lu"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "VP of Structures",
         "name": "Aidan Honnold"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "VP of Marketing and Outreach",
         "name": "Danny Marks"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "VP of Competitive Analysis and Strategic Direction",
         "name": "Andrew Fu"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Aerodynamics and Composites Manager",
         "name": "Aaron McKenzie"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Wings",
         "name": "Annette Guo"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Diffuser",
         "name": "Andrew Fu"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Driver Interface Manager",
         "name": "Danny Marks"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Pedals",
         "name": "Arushi Singh"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Steering Wheel",
         "name": "Nick Saizan"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Powertrain Manager",
         "name": "Greg Woelki"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Hubs",
         "name": "Shuming Teoh"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Brakes",
         "name": "Tim Violino"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Cooling - Drivetrain",
         "name": "Laura Ochsner"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Cooling - Radiator and Loop",
         "name": "Doria Pei"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Suspension Manager",
         "name": "Luis Martinez"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Chassis",
         "name": "Julia Lu"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Uprights",
         "name": "Jac Council"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Welding",
         "name": "Terrence Frey"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Control Arms",
         "name": "Justin Chung"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Control Arms",
         "name": "Jason Li"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Bellcranks & Dampers",
         "name": "Spencer Bowman"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Anti-Roll Bars",
         "name": "Emilio Guevara"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Steering",
         "name": "Eli Zidel"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Two Force Members",
         "name": "Jaime Romero"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Two Force Members",
         "name": "Chris Chang"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Jigs",
         "name": "Ivy He"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Jigs",
         "name": "Victoria Han"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Jigs",
         "name": "Nico Murolo"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Jigs",
         "name": "Simon Yu"
     },
@@ -196,301 +196,301 @@
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage Captain",
         "name": "Mrinali Nakhre"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Divya Aggarwal"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Larry Geng"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Mukundh Balajee"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Nick Saizan"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Rashi Kejriwal"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Spandan Sharma"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Ashwin Godura"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Devan Grover"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Iris Dong"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Omkar Savkur"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Caroline Kasuba"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Eliezer Olivares"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Navod Jayawardhane"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Esther Bedoyan"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Gustav Hansen"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development Captain",
         "name": "Saral Tayal"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Vamsi Ratnakaram"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Bharath Sreenivas"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Sebastian Garcia"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Prithu Pareek"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Jeff Tan"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Griffin Della Grotte"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Ravi Dudhagra"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware Captain",
         "name": "Jason Lu"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Omkar Savkur"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Vamsi Ratnakaram"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Abhishek Agarwal"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Amy Lin"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Derek Duenas"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Gustav Hansen"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Ishraaq Shams"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Joey Wildman"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "Firmware",
         "name": "Keren Huang"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Accumulator Captain",
         "name": "Jeannie Ruffley"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Accumulator",
         "name": "Hongyi Lin"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Accumulator",
         "name": "Corrado Govea"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Accumulator",
         "name": "Jonathan Li"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Accumulator",
         "name": "Vikram Marmer"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Accumulator",
         "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems Captain",
         "name": "Vikram Marmer"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Patrick Joyce"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Hongyi Lin"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Saral Tayal"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Griffin Della Grotte"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Kevin Song"
     },
     {
         "school": "Carnegie Mellon University",
-        "team_type": "Electric",
+        "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Mihir Lovalekar"
     }

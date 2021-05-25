@@ -12,10 +12,10 @@ let team_leads_elements = ppl_elements_array.slice(0, 10)
 let team_leads = team_leads_elements.map(
     person_element => ({
         "school": "University of Michigan",
-        "team_type": "Electric",        
+        "team type": "Electric",        
         'role': toTitleCase(person_element.querySelector(".elementor-widget-text-editor > div > p:nth-child(2)").innerText),
         'name': toTitleCase(person_element.querySelector(".elementor-widget-text-editor > div > p:nth-child(1)").innerText),
-        'degree': toTitleCase(person_element.querySelector(".elementor-widget-text-editor > div > p:nth-last-child(2)").innerText),
+        'major': toTitleCase(person_element.querySelector(".elementor-widget-text-editor > div > p:nth-last-child(2)").innerText),
         'email': person_element.querySelector(".elementor-widget-text-editor > div > p:last-child").innerText
     })
 )

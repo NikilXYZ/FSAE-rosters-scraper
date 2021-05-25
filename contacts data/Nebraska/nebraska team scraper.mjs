@@ -12,10 +12,10 @@ let ppl = ppl_names.map((person_name, person_index) => {
     let person_descriptions = ppl_descriptions[person_index].split("\n")
 
     person["school"] = "University of Nebraska"
-    person["team_type"] = "Combustion"
+    person["team type"] = "Combustion"
     person["role"] = person_descriptions[0]
     person["name"] = person_name
-    person["degree"] = person_descriptions[2]
+    person["major"] = person_descriptions[2]
 
     let grade_in_current_year = person_descriptions[1]
     let graduation_year = current_school_year

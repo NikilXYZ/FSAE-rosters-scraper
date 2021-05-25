@@ -1,0 +1,260 @@
+[
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Project Manager",
+        "name": "Peter Milam",
+        "major": "Mechanical Engineering, Aerospace Engineering",
+        "graduation year": 2021,
+        "email": "ptmilam@ucdavis.edu",
+        "career ambitions": [
+            "Mechanical Design",
+            "Manufacturing",
+            "Consulting"
+        ],
+        "hobbies": [
+            "Guitar",
+            "Backpacking"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Powertrain Lead",
+        "name": "Elliot Locke",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "email": "elocke@ucdavis.edu",
+        "career ambitions": [
+            "Mechanical Design/Manufacturing of vehicles"
+        ],
+        "hobbies": [
+            "Cycling",
+            "3D Printing",
+            "Rocketry",
+            "Car",
+            "Space Enthusiast"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Operations Lead",
+        "name": "Yash Taneja",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "email": "ytaneja@ucdavis.edu",
+        "career ambitions": [
+            "Automotive",
+            "Aerospace",
+            "or Biomedical Industries,",
+            "Entrepreneurship."
+        ],
+        "hobbies": [
+            "Photography",
+            "Music",
+            "Biking"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Suspension Lead",
+        "name": "Stuart Scolaro",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "slscolaro@ucdavis.edu",
+        "career ambitions": [
+            "Automotive or Computer Peripheral Industry"
+        ],
+        "hobbies": [
+            "Building keyboards",
+            "video games"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Vehicle Dynamics Lead",
+        "name": "Blake Christierson",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "bechristierson@ucdavis.edu",
+        "career ambitions": [
+            "Computational Modelling",
+            "Systems",
+            "Controls"
+        ],
+        "hobbies": [
+            "Snowboarding",
+            "LEGO"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Wheel Package Lead",
+        "name": "Faustino Villarreal-Blozis",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "email": "fblozis@ucdavis.edu",
+        "career ambitions": [
+            "Mechanical Design",
+            "Manufacturing"
+        ],
+        "hobbies": [
+            "Guitar",
+            "Baking,",
+            "Pizza-Making"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Electrical Operations Lead",
+        "name": "Tucker Zischka",
+        "major": "Electrical Engineering",
+        "graduation year": 2021,
+        "email": "thzischka@ucdavis.edu",
+        "career ambitions": [
+            "Control systems",
+            "Verilog Engineer"
+        ],
+        "hobbies": [
+            "FPV Drones",
+            "Backpacking",
+            "Formula"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Power Electronics Lead",
+        "name": "Osama Abualsoud",
+        "major": "Electrical Engineering",
+        "graduation year": 2021,
+        "email": "ooabualsoud@ucdavis.edu",
+        "career ambitions": [
+            "Electrical design",
+            "entrepreneurship",
+            "anything that’s engaging"
+        ],
+        "hobbies": [
+            "Drawing",
+            "spending time with friends",
+            "cars"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Aerodynamics Lead",
+        "name": "Jordon Won",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "email": "jjwon@ucdavis.edu",
+        "career ambitions": [
+            "Lockheed Martin"
+        ],
+        "hobbies": [
+            "Brazilian Jiu Jitsu"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Chassis Lead",
+        "name": "Alexander Llamado",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "email": "allamado@ucdavis.edu",
+        "career ambitions": [
+            "Electric vehicles",
+            "building science"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Honorary Aerodynamics Lead",
+        "name": "Stephen Rivest",
+        "major": "Aerospace & Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "sjrivest@ucdavis.edu",
+        "career ambitions": [
+            "Drones"
+        ],
+        "hobbies": [
+            "Cooking",
+            "music"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Composites Lead",
+        "name": "Anahut Sandhu",
+        "major": "Chemical Engineering",
+        "graduation year": 2021,
+        "email": "ansandhu@ucdavis.edu",
+        "career ambitions": [
+            "Aerospace robots"
+        ],
+        "hobbies": [
+            "Reading",
+            "backpacking"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Accumulator Lead",
+        "name": "Max Boyken",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "email": "moboyken@ucdavis.edu",
+        "career ambitions": [
+            "Automotive industry"
+        ],
+        "hobbies": [
+            "Cars",
+            "driving",
+            "racing",
+            "climbing"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Controls Lead",
+        "name": "Darrell Evans",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "email": "dmevans@ucdavis.edu",
+        "career ambitions": [
+            "Automotive industry"
+        ],
+        "hobbies": [
+            "Cars",
+            "driving",
+            "racing",
+            "climbing"
+        ]
+    },
+    {
+        "school": "University of California Davis",
+        "team type": "Combustion",
+        "role": "Ground Low Voltage Lead",
+        "name": "Austin Ambrose",
+        "major": "Electrical Engineering",
+        "graduation year": 2021,
+        "email": "pambrose@ucdavis.edu",
+        "career ambitions": [
+            "Automotive Electrical Engineering"
+        ],
+        "hobbies": [
+            "Disc Golf",
+            "Working on My E46"
+        ]
+    }
+]

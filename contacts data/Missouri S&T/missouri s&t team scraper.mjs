@@ -3,7 +3,7 @@ let ppl_elements_array = Array.from(document.querySelectorAll('.panel-grid-cell'
 let ppl = ppl_elements_array.map(
     person_element => ({
         'school': 'Missouri S&T',
-        'team_type': 'Combustion',
+        'team type': 'Combustion',
         'role': person_element.querySelector('.sow-headline'),
         'name': person_element.querySelector('.sow-sub-headline'),
         'email': person_element.querySelector('.sow-icon-container a')

@@ -7,16 +7,16 @@ let ppl = ppl_elements_array.map(
     person_element => ({
         'role': person_element.querySelector('p:nth-child(2)'),
         'name': person_element.querySelector('p:nth-child(1)'),
-        'degree': person_element.querySelector('p:nth-child(3)')
+        'major': person_element.querySelector('p:nth-child(3)')
     })
 )
 
-ppl = ppl.filter(person => person.role !== null && person.name !== null && person.degree !== null)
+ppl = ppl.filter(person => person.role !== null && person.name !== null && person.major !== null)
 
 ppl = ppl.map(person => ({
     role: person.role.innerText,
     name: person.name.innerText,
-    degree: person.degree.innerText
+    major: person.major.innerText
 })
 )
 
@@ -24,7 +24,7 @@ ppl = ppl.map(person => ({
 let current_year = new Date().getFullYear()
 
 // this really ought to have error checking to make sure there even is a grad year after the comma
-ppl = ppl_elements_array.filter(person => person.degree.split(", ")[1] >= current_year)
+ppl = ppl_elements_array.filter(person => person.major.split(", ")[1] >= current_year)
 
 // the last few elements in this aren't really ppl. I'm just manually deleting them after copy, because this could be a variable number
 
