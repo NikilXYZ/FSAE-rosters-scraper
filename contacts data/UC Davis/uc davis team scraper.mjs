@@ -2,7 +2,6 @@
 
 let ppl_elements = Array.from(document.querySelectorAll(".elementor-accordion"))
 
-// thank you for including a ton of info including grad year and email!
 
 let ppl = ppl_elements.map(person_element => {
     let person = {
@@ -11,13 +10,14 @@ let ppl = ppl_elements.map(person_element => {
         "role": person_element.children[1].children[0].innerText,
         "name": person_element.children[0].innerText,
     }
-
+    
     // some reason, they use a non-breaking space 0xA0. Converting that to regular space first
     let additional_details = person_element.children[1].children[1].innerText
-        .replace(/[^\S\r\n]+/g, ' ')
-        .split("\n")
-        .map(detail_key_value_string => detail_key_value_string.split(": "))
-
+    .replace(/[^\S\r\n]+/g, ' ')
+    .split("\n")
+    .map(detail_key_value_string => detail_key_value_string.split(": "))
+    
+    // thank you for including a ton of info including grad year and email!
     additional_details = Object.fromEntries(new Map(additional_details))
 
     person["major"] = additional_details["Major"]
