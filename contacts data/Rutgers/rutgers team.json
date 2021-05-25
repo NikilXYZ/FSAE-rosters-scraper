@@ -1,53 +1,79 @@
 [
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "President",
         "name": "Alan Juthapornmanee"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Vice President",
         "name": "Arnav Chenemilla"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Project Manager",
         "name": "Kishan Patel"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Treasurer",
         "name": "Alvin Cheng"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Controls/EGC Rep",
         "name": "Nyles Gamble"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Aerodynamics",
         "name": "Isaac Paez"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Chassis",
         "name": "Dahany Choi"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Suspension",
         "name": "Julian Sowa"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Brakes",
         "name": "Sean Wheat"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Data Aquisition",
         "name": "Greg Scatko"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Powertrain",
         "name": "Alex Bertucci"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Composites",
         "name": "Henry Fechelm"
     },
     {
+        "school": "Rutgers University",
+        "team_type": "Combustion",
         "role": "Electronics",
         "name": "Mazen Abdalla"
     }

@@ -16,6 +16,8 @@ let ppl_elements = text_elements.filter(element => {
 
 let ppl = ppl_elements.map(person_element => {
     let person = {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": person_element.children[1].innerText,
         "name": person_element.children[0].textContent
         // the CSS has a text-transform that makes the names all caps.

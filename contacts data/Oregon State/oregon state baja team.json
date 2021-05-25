@@ -1,106 +1,158 @@
 [
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Drivetrain",
         "name": "Blake Coomes"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Drivetrain",
         "name": "Chengda Li"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Drivetrain",
         "name": "Bryce Kinney"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Drivetrain",
         "name": "Richard Schurter"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Chassis & Driver Control",
         "name": "Hunter Rust"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Chassis & Driver Control",
         "name": "Dominic Mikalson"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Chassis & Driver Control",
         "name": "Thomas Sangillo"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "CVT",
         "name": "Tanner Asher"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "CVT",
         "name": "Nicholas Wilson"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "CVT",
         "name": "Gerardo Zavalsa"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "CVT",
         "name": "Samuel Hanson-Richter"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "CVT",
         "name": "Nathaniel Garcia"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Suspension",
         "name": "Luis Yanez-Romero"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Suspension",
         "name": "Sheldon Lim"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Suspension",
         "name": "Taichi Terakawa"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Suspension",
         "name": "Kevin Dang"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Suspension",
         "name": "Kingsley Kwan"
     },
     {
+        "school": "Oregon State University",
+        "team_type": "Baja",
         "role": "Management",
         "name": "Fallon Peters"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Avery Echenrode"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Myla Garlitz"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Gordon Kitchener"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Allyson Stansell"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Charlie O'Brien"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Sheldon Lim"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Josh Collins"
     },
     {
-        "role":"General Member",
+        "school": "Oregon State University",
+        "team_type": "Baja",
+        "role": "General Member",
         "name": "Henry Gillepsie"
     }
 ]

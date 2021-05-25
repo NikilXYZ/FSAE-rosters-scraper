@@ -24,6 +24,8 @@ subteams.forEach(subteam => {
         try {
             person = {}
             // second child is subteam role
+            person.school = "North Carolina State University"
+            person.team_type = "Baja"
             subteam_role = person_detail_elements[1].innerText
             person.role = `${subteam_name} ${subteam_role}`
 

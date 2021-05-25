@@ -20,6 +20,8 @@ let ppl = Array.from(
 
 // ppl is currently an array of arrays of divs
 ppl = ppl.map(person => ({
+    "school": "Rutgers University",
+    "team_type": "Combustion",
     "role": person[1].innerText,
     "name": person[0].innerText,
 }))

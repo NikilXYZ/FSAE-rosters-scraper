@@ -11,8 +11,10 @@ ppl = ppl_elements_array.map(person_element => {
     const person_string = person_element.innerText
     const tokens = person_string.split(" ")
     const person = {
-        'role':tokens.slice(2).join(" "), 
-        'name':tokens.slice(0,2).join(" "), 
+        "school": "North Carolina State University",
+        "team_type": "Combustion",
+        "role":tokens.slice(2).join(" "), 
+        "name":tokens.slice(0,2).join(" "), 
     }
     return person
 })

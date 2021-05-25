@@ -1,115 +1,161 @@
 [
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Team Advisor",
         "name": "Dr. Henry Pernicka",
         "email": "pernicka@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Team Leader",
-        "name": "Zach 'Turbo' Hoffman",
+        "name": "Zach "Turbo" Hoffman",
         "email": "zwhfkd@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Chief Engineer",
         "name": "Jacob Parkhurst",
         "email": "jrpzt4@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Secretary",
         "name": "John Hansen",
         "email": "jrhnmw@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Business Manager",
         "name": "Chase Johnson",
         "email": "chasejohnson@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Powertrain",
         "name": "Ross Lippencott",
         "email": "rgl3dd@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Vehicle Dynamics",
         "name": "Jacob Parkhurst",
         "email": "jrpzt4@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Manufacturing",
         "name": "Trenton Childress",
         "email": "tpcw9d@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Ian Law",
         "name": "Electrical Lead",
         "email": "ivhhc@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Aerodynamics",
         "name": "Isaiah Morrow",
         "email": "itmn74@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Composites",
         "name": "Tyler Winner",
         "email": "%20tjwnpf@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Drivetrain",
         "name": "Zachary Freestone",
         "email": "zbf6m4@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Brakes",
         "name": "Aidan Greiner",
         "email": "aag7h4@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Intake/Exhaust",
         "name": "Mark Farr",
         "email": "mafbyd@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Cooling",
         "name": "Kaleb Tuinstra",
         "email": "kmtt35@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Fuel/Oil",
         "name": "Logan Chazen",
         "email": "ldcpfd@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Steering & Controls",
         "name": "Derek Edwards",
         "email": "daemwp@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Suspension",
         "name": "Jason Schlaud",
         "email": "jasmyb@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Corners",
         "name": "Joe Leonard",
         "email": "jclrnq@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Front Wing",
         "name": "Raymond Helmig",
         "email": "rlhyyb@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Shop Manager",
         "name": "Tyler Gastrich",
         "email": "tjg86f@mst.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Monocoque Research",
         "name": "Warren Smith",
         "email": "rlhyyb@umsystem.edu"
     },
     {
+        "school": "Missouri S&T",
+        "team_type": "Combustion",
         "role": "Frame",
         "name": "Ian Herling",
         "email": "idhmgh@mst.edu"

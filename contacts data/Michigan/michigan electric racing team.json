@@ -1,173 +1,249 @@
 [
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Project Manager",
         "name": "Sean Phelan ",
         "degree": "4th Year Mechanical Engineer",
         "email": "Sphel@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Technical Lead",
         "name": "Fred Ouding",
         "degree": "4th Year Mechanical Engineer",
         "email": "Fredavis@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Aerodynamics Lead",
         "name": "Mitchell Houghtaling",
         "degree": "4th Year Aerospace Engineer",
         "email": "Houghtm@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Business Lead",
         "name": "Spencer Nguyen",
         "degree": "1st Year Bba Student",
         "email": "anhung@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Controls Lead",
         "name": "Madeleine Bahorski",
         "degree": "3rd Year Electrical Engineer",
         "email": "mbahorksi@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain Lead",
         "name": "Richard Zhovner",
         "degree": "2nd Year Mechanical Engineer",
         "email": "rzhov@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Ergonomics Lead",
         "name": "Sujay Racha",
         "degree": "2nd Year Mechanical Engineer",
         "email": "suracha@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Ev Powertrain Lead",
         "name": "Jehian Kusumadjaja",
         "degree": "3rd Year Computer Engineer",
         "email": "jehiank@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Public Relations Chair",
         "name": "Sahil Saini",
         "degree": "4th Year Mechanical Engineer",
         "email": "sssaini@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Vehicle Dynamic Control Lead",
         "name": "Neel Patel",
         "degree": "4th Year Mechanical Engineer",
         "email": "nspatelz@umich.edu"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Aerodynamics",
         "name": "Brian Delgado"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Aerodynamics",
         "name": "Ani Attaluri"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Aerodynamics",
         "name": "Gaurang Vaidya"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Business",
         "name": "Matthew Allore"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Business",
         "name": "Andrew Schweers"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Business",
         "name": "Joshua Memmesheimer"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Business",
         "name": "Dhiya Krupashankar"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Business",
         "name": "Raghav Ramesh"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Business",
         "name": "Marius Vava"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Controls",
         "name": "Madeleine Bahorski"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Controls",
         "name": "Ryan Needle"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Controls",
         "name": "Rajiv Bharadwaj"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Controls",
         "name": "Johnny Jia"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Controls",
         "name": "Cate Sullivan"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Christian Nunez"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Christian Zung"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Dity Bhatnagar"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Fadey Rayyan"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Jacob Fischette"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Luthfor Khan"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Meng Shi"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Nolan Hornby"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Rebecca Snyder"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Robert Nawara"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Drivetrain",
         "name": "Sarah Snyder"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Ergonomics",
         "name": "Vincenzo Scalise"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Ergonomics",
         "name": "Nick Johnson"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Electric",
         "role": "Ergonomics",
         "name": "Jeremy Wang"
     }

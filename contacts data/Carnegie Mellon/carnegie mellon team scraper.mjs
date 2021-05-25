@@ -7,6 +7,8 @@ executive_board_and_structures = executive_board_and_structures.filter(element =
 let executive_board_and_structures_ppl = executive_board_and_structures.map(person_text => {
     person_text_items = person_text.split("\n\n")
     return {
+        "school": "Carnegie Mellon University",
+        "team_type": "Electric",
         "role": person_text_items[1],
         "name": person_text_items[0],
     }
@@ -38,6 +40,8 @@ energetics_containers.forEach(container => {
 
     subteam_members.forEach(member => {
         energetics_ppl.push({
+            "school": "Carnegie Mellon University",
+            "team_type": "Electric",
             "role": subteam,
             "name": member
         })

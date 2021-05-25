@@ -1,19 +1,27 @@
 [
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Captain",
         "name": "John Kolar",
         "email": "johnkolar@huskers.unl.edu",
         "phone": "(248)-688-7444"
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Project Manager",
         "name": "Galen Kramer"
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Project Manager",
         "name": "Andrew Johnson"
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Adviser",
         "name": "Dr. Sangjin Ryu",
         "email": "sangjin.ryu@unl.edu",

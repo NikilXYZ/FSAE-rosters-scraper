@@ -1,95 +1,133 @@
 [
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Team Captain",
         "name": "Jared Dirksen",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Technical Director",
         "name": "Teddy Gartland",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Chassis Director",
         "name": "Jacob Thayer",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Driver Interface Lead",
         "name": "Jackson MacLeod",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Monocoque Lead",
         "name": "Jefferson Wang",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Brakes Lead",
         "name": "Brendan Doherty",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Suspension Hardware Lead",
         "name": "Luca Ranzani",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Vehicle Dynamics Lead",
         "name": "Christopher Currey",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Drivetrain Lead",
         "name": "Xuanwen Huang",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Powertrain Director",
         "name": "Tom Eggleston",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Aerodynamics Lead",
         "name": "Charly Zhang",
         "degree": "Aerospace Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Electronics Lead",
         "name": "Anya Svintsitski",
         "degree": "Electrical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Electronics Lead",
         "name": "Alex Willis",
         "degree": "Electrical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Driver",
         "name": "Jackson Macleod",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Driver",
         "name": "Matt Parker",
         "degree": "Industrial & Operations Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Glorified New Kid",
         "name": "Taaron Foote",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Solder Lead",
         "name": "Nithin Vedamuthu",
         "degree": "Electrical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Structual Simulation Lead",
         "name": "Brendan Prast",
         "degree": "Mechanical Engineering"
     },
     {
+        "school": "University of Michigan",
+        "team_type": "Combustion",
         "role": "Business",
         "name": "Matt Parker",
         "degree": "Industrial & Operations Engineering"

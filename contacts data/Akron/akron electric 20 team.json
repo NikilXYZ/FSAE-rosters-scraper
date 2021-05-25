@@ -1,125 +1,185 @@
 [
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Team Captain and Chassis Lead",
         "name": "David Streen",
         "email": "dcs81@zips.uakron.edu"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Vice President",
         "name": "Elena Falcione",
         "email": "emf66@zips.uakron.edu"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Secretary and Powertrain Lead",
         "name": "Natalie Allen",
         "email": "nja28@zips.uakron.edu"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Treasurer",
         "name": "Loren Bell",
         "email": "lhb8@zips.uakron.edu"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Brakes Lead",
         "name": "Zach Demetriades"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Vehicle Dynamics Lead",
         "name": "Andrew Penlington"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Electrical Lead",
         "name": "Adam Long"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Suspension Lead",
         "name": "Akos Jasper"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Accumulator Lead and Welder",
         "name": "Jimmy Volcansek"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Cooling Lead",
         "name": "Guan Kwok"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Suspension Support",
         "name": "Anna Signorino"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Cooling Support",
         "name": "Brendan O’Donnell"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Suspension Support",
         "name": "Chris Thompson"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Chassis Support",
         "name": "David Kinion"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Brakes Support",
         "name": "Brian Wyler"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Brakes Support",
         "name": "Devin Seay"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Suspension Support",
         "name": "Erikah Jackson"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Electrical Support",
         "name": "James Winters"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Suspension Support",
         "name": "Madison Hughes"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Electrical Support",
         "name": "Rami Nehme"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Electrical Support",
         "name": "Andrew Jordan"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Mechanical Support",
         "name": "Megan McDivitt"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Accumulator Support",
         "name": "Aaron Vocansek"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Cooling Support",
         "name": "Andrew Thouvenin"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Electrical Support",
         "name": "Susanah Kowalewski"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Accumulator Support",
         "name": "Anthony Filing"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Composites ",
         "name": "Hannah Liggett"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Composites",
         "name": "Lia Holley"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Brakes Support",
         "name": "Nick Thomas"
     },
     {
+        "school": "University of Akron",
+        "team_type": "Electric",
         "role": "Composites",
         "name": "Jordan Johnson"
     }

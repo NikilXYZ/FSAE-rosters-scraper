@@ -1,101 +1,135 @@
 [
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Project Manager",
         "name": "Dalton Engelbart",
         "degree": "​Mechanical Engineering ",
         "graduation year": 2019
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Chief Engineer",
         "name": "Logan Altman",
         "degree": "Mechanical Engineering",
         "graduation year": 2020
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Powertrain Team",
         "name": "Max Boslaugh",
         "degree": "Mechanical Engineering",
         "graduation year": 2022
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Powertrain Team",
         "name": "Adam Johnson",
         "degree": "​Mechanical Engineering",
         "graduation year": 2022
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Suspension Team",
         "name": "Zachary Mollohan",
         "degree": "​Mechanical Engineering",
         "graduation year": 2025
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Chassis Lead",
         "name": "Bricen Margritz",
         "degree": "Mechanical Engineering",
         "graduation year": 2020
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Electrical Lead",
         "name": "Grace Larsen",
         "degree": "Electrical Engineering",
         "graduation year": 2022
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Powertrain Team",
         "name": "Nicholas Eichelberger",
         "degree": "Mechanical Engineering",
         "graduation year": 2019
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Suspension Team",
         "name": "Joseph Ehrisman",
         "degree": "Mechanical Engineering",
         "graduation year": 2019
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Aerodynamics Team",
         "name": "Trent Stobaugh",
         "degree": "Mechanical Engineering",
         "graduation year": 2020
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Chassis Lead",
         "name": "Joseph Clayton",
         "degree": "Mechanical Engineering",
         "graduation year": 2025
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Shop Manager",
         "name": "Kyle Bohling",
         "degree": "Mech Systems",
         "graduation year": 2020
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Powertrain Team",
         "name": "Isaac Klar",
         "degree": "Mechanical Engineering",
         "graduation year": 2022
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Suspension Team",
         "name": "Peyton Stanczyk",
         "degree": "Mechanical Engineering",
         "graduation year": 2019
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Aerodynamics Lead",
         "name": "Kaleab Mengistu",
         "degree": "Mechanical Engineering",
         "graduation year": 2022
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Electrical Lead",
         "name": "Dawson Miller",
         "degree": "Electrical Engineering",
         "graduation year": 2020
     },
     {
+        "school": "University of Nebraska",
+        "team_type": "Combustion",
         "role": "Faculty Advisor",
         "name": "Dr. Michael Sealy"
     }

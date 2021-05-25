@@ -1,29 +1,43 @@
 [
     {
+        "school": "University of Texas Arlington",
+        "team_type": "Combustion",
         "role": "Team Captain",
         "name": "Hasan Mahmood"
     },
     {
+        "school": "University of Texas Arlington",
+        "team_type": "Combustion",
         "role": "Chief Engineer",
         "name": "Dylan White"
     },
     {
+        "school": "University of Texas Arlington",
+        "team_type": "Combustion",
         "role": "Chassis Lead",
         "name": "Gurtej \"Sunny\" Channa"
     },
     {
+        "school": "University of Texas Arlington",
+        "team_type": "Combustion",
         "role": "Composites Lead",
         "name": "Kencey Christopher"
     },
     {
+        "school": "University of Texas Arlington",
+        "team_type": "Combustion",
         "role": "Engine Lead",
         "name": "Varun Tamilselvan"
     },
     {
+        "school": "University of Texas Arlington",
+        "team_type": "Combustion",
         "role": "R&D Lead",
         "name": "Tim Stevens"
     },
     {
+        "school": "University of Texas Arlington",
+        "team_type": "Combustion",
         "role": "Suspension Lead",
         "name": "Chris Dunn"
     }

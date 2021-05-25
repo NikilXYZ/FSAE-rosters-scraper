@@ -1,7 +1,9 @@
-let ppl_elements_array = Array.from(document.querySelectorAll(".t-entry"))
+let ppl_elements_array = Array.from(document.querySelectorAll('.t-entry'))
 
 let ppl = ppl_elements_array.map(
     person_element => ({
+        'school': 'University of Texas Arlington',
+        'team_type': 'Combustion',
         'role': person_element.querySelector('.t-entry-meta'),
         'name': person_element.querySelector('.t-entry-title')
     })
