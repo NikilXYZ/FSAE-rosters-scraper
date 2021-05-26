@@ -3,8 +3,8 @@ import fs from "fs"
 let students = JSON.parse(fs.readFileSync("./all fsae students.json"))
 
 let linkedin_query_generator = (queries_so_far, student) => {
-    if (!student.linkedin) {
-        let linkedin_query = encodeURI(`https://www.linkedin.com/search/results/all/?keywords=${student.name} ${student.university}`)
+    if (!student.linkedin && !student.email) {
+        let linkedin_query = encodeURI(`https://www.linkedin.com/search/results/all/?keywords=${student.name} ${student.school}`)
         queries_so_far.push(linkedin_query)
     }
     return queries_so_far

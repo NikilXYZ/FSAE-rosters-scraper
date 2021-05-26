@@ -130,79 +130,97 @@
         "team type": "Combustion",
         "role": "Team Lead",
         "name": "Josh Kintz",
-        "email": "joshk919@vt.edu"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "joshk919@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/joshua-kintz-257091161/"
     },
     {
         "school": "Virginia Tech",
         "team type": "Combustion",
         "role": "Suspension Lead",
         "name": "Matt Watterson",
-        "email": "mwatters@vt.edu"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "mwatters@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/matthew-watterson-a3805a160/"
     },
     {
         "school": "Virginia Tech",
         "team type": "Combustion",
         "role": "​Electric Powertrain Lead",
         "name": "Adam Yi",
-        "email": "adamkyi@vt.edu"
+        "major": "Electrical Engineering: Energy and Power Electronics",
+        "graduation year": 2021,
+        "email": "adamkyi@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/adam-y-a3767812a/"
     },
     {
         "school": "Virginia Tech",
         "team type": "Combustion",
         "role": "​Drivetrain Lead",
         "name": "Srivatsa Harish",
-        "email": "sharish@vt.edu"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "sharish@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/srivatsa-harish/"
     },
     {
         "school": "Virginia Tech",
         "team type": "Combustion",
         "role": "Engine Lead",
         "name": "Tyler Martin",
-        "email": "tyler18@vt.edu"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "tyler18@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/tyler-martin-790a521ba/"
     },
     {
         "school": "Virginia Tech",
         "team type": "Combustion",
         "role": "Testing Lead",
         "name": "Haley Simkins",
-        "email": "haleyss@vt.edu"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "haleyss@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/haley-simkins-1b20a4182/"
     },
     {
         "school": "Virginia Tech",
         "team type": "Combustion",
         "role": "Business Lead",
         "name": "Zach Rubin",
-        "email": "zachrubin@vt.edu"
+        "major": "Marketing",
+        "graduation year": 2022,
+        "email": "zachrubin@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/zachary-r-414102101/"
     },
     {
         "school": "University of Texas Arlington",
         "team type": "Combustion",
         "role": "Team Captain",
-        "name": "Hasan Mahmood"
+        "name": "Hasan Mahmood",
+        "major": "Engineering, Finance",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/hasan-mahmood-353667188/"
     },
     {
         "school": "University of Texas Arlington",
         "team type": "Combustion",
         "role": "Chief Engineer",
-        "name": "Dylan White"
-    },
-    {
-        "school": "University of Texas Arlington",
-        "team type": "Combustion",
-        "role": "Chassis Lead",
-        "name": "Gurtej \"Sunny\" Channa"
+        "name": "Dylan White",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/dylan-t-white/"
     },
     {
         "school": "University of Texas Arlington",
         "team type": "Combustion",
         "role": "Composites Lead",
-        "name": "Kencey Christopher"
-    },
-    {
-        "school": "University of Texas Arlington",
-        "team type": "Combustion",
-        "role": "Engine Lead",
-        "name": "Varun Tamilselvan"
+        "name": "Kencey Christopher",
+        "major": "Visual Communication",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/kencey-christopher-28a0b0210/"
     },
     {
         "school": "University of Texas Arlington",
@@ -214,7 +232,10 @@
         "school": "University of Texas Arlington",
         "team type": "Combustion",
         "role": "Suspension Lead",
-        "name": "Chris Dunn"
+        "name": "Chris Dunn",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/christopher-dunn-7805a4212/"
     },
     {
         "school": "University of Connecticut",
@@ -2726,76 +2747,120 @@
         "team type": "Electric",
         "role": "Team Captain and Chassis Lead",
         "name": "David Streen",
-        "email": "dcs81@zips.uakron.edu"
+        "email": "dcs81@zips.uakron.edu",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/david-streen-7498b1152/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Vice President",
         "name": "Elena Falcione",
-        "email": "emf66@zips.uakron.edu"
+        "email": "emf66@zips.uakron.edu",
+        "major": "Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/elena-falcione-206836180/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Secretary and Powertrain Lead",
         "name": "Natalie Allen",
-        "email": "nja28@zips.uakron.edu"
+        "email": "nja28@zips.uakron.edu",
+        "major": "Bioengineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/natalie-allen-2021/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Treasurer",
         "name": "Loren Bell",
-        "email": "lhb8@zips.uakron.edu"
+        "email": "lhb8@zips.uakron.edu",
+        "major": "Finance",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/lhbj/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Brakes Lead",
-        "name": "Zach Demetriades"
+        "name": "Zach Demetriades",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/zacharydemetriades/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Vehicle Dynamics Lead",
-        "name": "Andrew Penlington"
+        "name": "Andrew Penlington",
+        "major": "Supply Chain Management",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/andrew-penlington-782258140/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Electrical Lead",
-        "name": "Adam Long"
+        "name": "Adam Long",
+        "major": "Electrical and Electronics Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/adam-long-657ab611a/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
-        "role": "Suspension Lead",
-        "name": "Akos Jasper"
+        "role": "Team Captain, Suspension Lead",
+        "name": "Akos Jasper",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/akos-jasper/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Accumulator Lead and Welder",
-        "name": "Jimmy Volcansek"
+        "name": "Jimmy Volcansek",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/james-volcansek-442830165/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Cooling Lead",
-        "name": "Guan Kwok"
+        "name": "Guan Kwok",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/guan-bok-kwok-09ba59173/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Suspension Support",
-        "name": "Anna Signorino"
+        "name": "Anna Signorino",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/anna-signorino-b01559191/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Cooling Support",
-        "name": "Brendan O’Donnell"
+        "name": "Brendan O’Donnell",
+        "major": "Aerospace Systems Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/brendan-o-donnell-52225515a/"
     },
     {
         "school": "University of Akron",
@@ -2807,25 +2872,40 @@
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Chassis Support",
-        "name": "David Kinion"
+        "name": "David Kinion",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/david-kinion-269589186/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Brakes Support",
-        "name": "Brian Wyler"
+        "name": "Brian Wyler",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/devin-seay-88016a17a/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Brakes Support",
-        "name": "Devin Seay"
+        "name": "Devin Seay",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/devin-seay-88016a17a/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Suspension Support",
-        "name": "Erikah Jackson"
+        "name": "Erikah Jackson",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/erikah-jackson-82683a161/",
+        "employed": true
     },
     {
         "school": "University of Akron",
@@ -2837,13 +2917,21 @@
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Suspension Support",
-        "name": "Madison Hughes"
+        "name": "Madison Hughes",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/madison-hughes-205090135/",
+        "employed": true
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Electrical Support",
-        "name": "Rami Nehme"
+        "name": "Rami Nehme",
+        "major": "Computer Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/rami-nehme-42a1a2163/",
+        "employed": true
     },
     {
         "school": "University of Akron",
@@ -2855,7 +2943,10 @@
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Mechanical Support",
-        "name": "Megan McDivitt"
+        "name": "Megan McDivitt",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/megan-mcdivitt-487135147/"
     },
     {
         "school": "University of Akron",
@@ -2867,37 +2958,55 @@
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Cooling Support",
-        "name": "Andrew Thouvenin"
+        "name": "Andrew Thouvenin",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/andrew-thouvenin-886552138/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Electrical Support",
-        "name": "Susanah Kowalewski"
+        "name": "Susanah Kowalewski",
+        "major": "Electrical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/susanah-kowalewski-39727a172/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Accumulator Support",
-        "name": "Anthony Filing"
+        "name": "Anthony Filing",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/anthony-filing-8bb323b8/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Composites ",
-        "name": "Hannah Liggett"
+        "name": "Hannah Liggett",
+        "major": "Mechanical Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/hannah-liggett-7497081a6/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Composites",
-        "name": "Lia Holley"
+        "name": "Lia Holley",
+        "major": "Mechanical Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/lia-holley-4060891a2/"
     },
     {
         "school": "University of Akron",
         "team type": "Electric",
         "role": "Brakes Support",
-        "name": "Nick Thomas"
+        "name": "Nick Thomas",
+        "major": "Mechanical Engineering",
+        "graduation year": 2018,
+        "linkedin": "https://www.linkedin.com/in/nick-thomas-b99644124/"
     },
     {
         "school": "University of Akron",
@@ -2909,79 +3018,91 @@
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Team Captain",
-        "name": "Jeff DiSante"
+        "name": "Jeff DiSante",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/jeff-disante-9243b5142/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Powertrain Lead",
-        "name": "Logan Mitchell"
+        "name": "Logan Mitchell",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/logan-mitchell-68b16a14b/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Vehicle Dynamics Lead",
-        "name": "Michael Metropoulos"
+        "name": "Michael Metropoulos",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/michael-metropoulos-30a620171/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Manufacturing Lead",
-        "name": "John Milbrandt"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Accounting",
-        "name": "Bershann Bounds"
+        "name": "John Milbrandt",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/john-milbrandt-196650204/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Brakes Lead",
-        "name": "Robert Kucera"
+        "name": "Robert Kucera",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/robert-kucera-b4652b171/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Suspension Lead",
-        "name": "Ray Hilbert"
+        "name": "Ray Hilbert",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/raymond-hilbert-6500b2195/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Aerodynamics Lead",
-        "name": "Patrick Kruse"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Aerodynamics Support",
-        "name": "David McVan"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Drivetrain Lead",
-        "name": "Matt Riczo"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Engine Support ",
-        "name": "Jacob Greer"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Electrical Lead",
-        "name": "Clayton Brown"
+        "name": "Patrick Kruse",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/patrick-kruse-aab737168/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Engine Support",
-        "name": "Jordan Blake"
+        "name": "Jacob Greer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/jacob-greer-6848b4174/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Electrical Lead",
+        "name": "Clayton Brown",
+        "major": "Mechanical Engineering",
+        "graduation year": 2019,
+        "linkedin": "https://www.linkedin.com/in/clayton-brown/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Engine Support",
+        "name": "Jordan Blake",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jordan-blake-a87a43119/"
     },
     {
         "school": "University of Akron",
@@ -2993,55 +3114,69 @@
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Electrical Support",
-        "name": "Luke Rogers"
+        "name": "Luke Rogers",
+        "major": "Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/luke-rogers-987a85151/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Electrical Support",
-        "name": "Josh Bunday"
+        "name": "Josh Bunday",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/josh-bunday-ba36561ba/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Engine Support",
-        "name": "Sidney Mingle"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Engine Support",
-        "name": "Troy Smith"
+        "name": "Troy Smith",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/troy-smith-304a3b201/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Powertrain Support",
-        "name": "Emily Greene"
+        "name": "Emily Greene",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/emily-greene-5625451aa/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Chassis Lead",
-        "name": "Stuart Thornborough"
+        "name": "Stuart Thornborough",
+        "major": "Mechanical Engineering, Material Science, Vehicle Dynamics",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/stuart-thornborough-a1b4a11b9/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Composites Lead",
-        "name": "Henry Wathen "
+        "name": "Henry Wathen",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/henry-wathen-367469172/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
-        "role": "Composites Support ",
+        "role": "Composites Support",
         "name": "Brian Heller"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Manufacturing Support",
-        "name": "Auston Obringer"
+        "name": "Auston Obringer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/auston-obringer-8021861a7/"
     },
     {
         "school": "University of Akron",
@@ -3052,20 +3187,16 @@
     {
         "school": "University of Akron",
         "team type": "Combustion",
-        "role": "Manufacturing Support",
-        "name": "David Bartsch"
+        "role": "Composites Support",
+        "name": "Calan Wensing",
+        "linkedin": "https://www.linkedin.com/in/calan-wensing-aa8b06210/"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
         "role": "Composites Support",
-        "name": "Calan wensing"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Composites Support",
-        "name": "Luke Musil"
+        "name": "Luke Musil",
+        "linkedin": "https://www.linkedin.com/in/luke-musil-7a949b1bb/"
     },
     {
         "school": "University of Akron",
@@ -3076,31 +3207,43 @@
     {
         "school": "University of Akron",
         "team type": "Combustion",
-        "role": "Business Lead ",
+        "role": "Business Lead, Manufacturing Support",
         "name": "David Bartsch"
     },
     {
         "school": "University of Akron",
         "team type": "Combustion",
+        "role": "Business Support, Engine Support",
+        "name": "Sidney Mingle",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/sidney-mingle-007237187/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Drivetrain Lead, Business Support",
+        "name": "Matt Riczo",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/matthew-riczo-361645160/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Aerodynamics Support, Business Support",
+        "name": "David McVan",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/david-mcvan-883099a1/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
         "role": "Business Support",
-        "name": "Sidney Mingle"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Business Support ",
-        "name": "Matt Riczo"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Business Support ",
-        "name": "David Mcvan"
-    },
-    {
-        "school": "University of Akron",
-        "team type": "Combustion",
-        "role": "Business Support",
-        "name": "Bershann Bounds "
+        "name": "Bershann Bounds",
+        "major": "Accounting",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/bershannb/"
     }
 ]
