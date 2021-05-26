@@ -1726,7 +1726,8 @@
         "name": "Sean Phelan",
         "major": "Mechanical Engineering",
         "graduation year": 2021,
-        "email": "Sphel@umich.edu"
+        "email": "Sphel@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/sean-phelan-426225212/"
     },
     {
         "school": "University of Michigan",
@@ -1735,7 +1736,8 @@
         "name": "Fred Ouding",
         "major": "Mechanical Engineering",
         "graduation year": 2021,
-        "email": "Fredavis@umich.edu"
+        "email": "Fredavis@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/frederick-ouding-aab9b2192/"
     },
     {
         "school": "University of Michigan",
@@ -1744,7 +1746,8 @@
         "name": "Mitchell Houghtaling",
         "major": "Aerospace Engineering",
         "graduation year": 2021,
-        "email": "Houghtm@umich.edu"
+        "email": "Houghtm@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/mitchell-houghtaling-709b3013b/"
     },
     {
         "school": "University of Michigan",
@@ -1753,7 +1756,8 @@
         "name": "Spencer Nguyen",
         "major": "Business",
         "graduation year": 2024,
-        "email": "anhung@umich.edu"
+        "email": "anhung@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/spencer-nguyen/"
     },
     {
         "school": "University of Michigan",
@@ -1762,7 +1766,8 @@
         "name": "Madeleine Bahorski",
         "major": "Electrical Engineering",
         "graduation year": 2022,
-        "email": "mbahorksi@umich.edu"
+        "email": "mbahorksi@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/madeleinebahorski/"
     },
     {
         "school": "University of Michigan",
@@ -1771,7 +1776,8 @@
         "name": "Richard Zhovner",
         "major": "Mechanical Engineering",
         "graduation year": 2023,
-        "email": "rzhov@umich.edu"
+        "email": "rzhov@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/richard-zhovner/"
     },
     {
         "school": "University of Michigan",
@@ -1785,20 +1791,12 @@
     {
         "school": "University of Michigan",
         "team type": "Electric",
-        "role": "Ev Powertrain Lead",
-        "name": "Jehian Kusumadjaja",
-        "major": "Computer Engineering",
-        "graduation year": 2021,
-        "email": "jehiank@umich.edu"
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Electric",
         "role": "Public Relations Chair",
         "name": "Sahil Saini",
         "major": "Mechanical Engineering",
         "graduation year": 2021,
-        "email": "sssaini@umich.edu"
+        "email": "sssaini@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/sahil-saini-011/"
     },
     {
         "school": "University of Michigan",
@@ -1825,7 +1823,10 @@
         "school": "University of Michigan",
         "team type": "Electric",
         "role": "Aerodynamics",
-        "name": "Gaurang Vaidya"
+        "major": "Chemical Engineering",
+        "graduation year": 2024,
+        "name": "Gaurang Vaidya",
+        "linkedin": "https://www.linkedin.com/in/gaurang-vaidya-9539781a2/"
     },
     {
         "school": "University of Michigan",
@@ -1980,10 +1981,11 @@
     {
         "school": "University of Michigan",
         "team type": "Baja",
-        "role": "Four Wheel Drive",
+        "role": "Four Wheel Drive, Treasurer",
         "name": "Stephanie Fox",
         "major": "Mechanical Engineering",
-        "graduation year": 2021
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/stephaniefox2317/"
     },
     {
         "school": "University of Michigan",
@@ -1991,7 +1993,8 @@
         "role": "Gearbox & Four Wheel Drive",
         "name": "Mitchell Hayes",
         "major": "Mechanical Engineering",
-        "graduation year": 2021
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/mitchellhayes2021/"
     },
     {
         "school": "University of Michigan",
@@ -2023,23 +2026,17 @@
         "role": "Technical Director",
         "name": "Carlos Cipollitti",
         "major": "Mechanical Engineering",
-        "graduation year": 2021
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/carlos-daniel-cipollitti/"
     },
     {
         "school": "University of Michigan",
         "team type": "Baja",
-        "role": "Manufacturing Director",
+        "role": "Manufacturing Director, CNC Manufacturing",
         "name": "Devin Ardeshna",
         "major": "Mechanical Engineering",
-        "graduation year": 2021
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Baja",
-        "role": "Treasurer",
-        "name": "Stephanie Fox",
-        "major": "Mechanical Engineering",
-        "graduation year": 2021
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/dardeshna/"
     },
     {
         "school": "University of Michigan",
@@ -2095,7 +2092,8 @@
         "role": "Suspension Structures",
         "name": "Leo Santos",
         "major": "Mechanical Engineering",
-        "graduation year": 2021
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/leonardodsantos/"
     },
     {
         "school": "University of Michigan",
@@ -2111,7 +2109,9 @@
         "role": "Suspension Kinematics",
         "name": "Julian Malevanets",
         "major": "Mechanical Engineering",
-        "graduation year": 2021
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/julianmalevanets/",
+        "employed": true
     },
     {
         "school": "University of Michigan",
@@ -2152,14 +2152,6 @@
         "name": "Evelyn Sorgenfrei",
         "major": "Mechanical Engineering",
         "graduation year": 2023
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Baja",
-        "role": "CNC Manufacturing",
-        "name": "Devin Ardeshna",
-        "major": "Mechanical",
-        "graduation year": 2021
     },
     {
         "school": "Carnegie Mellon University",
