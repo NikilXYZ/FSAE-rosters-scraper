@@ -2236,7 +2236,7 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "Steering Wheel",
+        "role": "Steering Wheel, Core Grounded Low Voltage",
         "name": "Nick Saizan",
         "major": "Electrical and Computer Engineering",
         "graduation year": 2021,
@@ -2348,37 +2348,55 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Anti-Roll Bars",
-        "name": "Emilio Guevara"
+        "name": "Emilio Guevara",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/eguevara360/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Steering",
-        "name": "Eli Zidel"
+        "name": "Eli Zidel",
+        "major": "Mechanical Engineering, Public Policy",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/elizidel/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Two Force Members",
-        "name": "Jaime Romero"
+        "name": "Jaime Romero",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/jaime-romero-b7217a198/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Two Force Members",
-        "name": "Chris Chang"
+        "name": "Chris Chang",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/chris-chang-370bb41b4/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Jigs",
-        "name": "Ivy He"
+        "name": "Ivy He",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/ivyhe24381/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Jigs",
-        "name": "Victoria Han"
+        "name": "Victoria Han",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/victoria-yike-han-9747081a4/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2389,13 +2407,10 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "Jigs",
-        "name": "Simon Yu"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "name": "Alex White"
+        "name": "Alex White",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/alex-white-084b06200/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2410,55 +2425,73 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Divya Aggarwal"
+        "name": "Divya Aggarwal",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/divya-aggarwal10/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Larry Geng"
+        "name": "Larry Geng",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/larry-g-8837b7186/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Mukundh Balajee"
+        "name": "Mukundh Balajee",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/mukundhbalajee/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Nick Saizan"
+        "name": "Rashi Kejriwal",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/rashikejriwal/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Rashi Kejriwal"
+        "name": "Spandan Sharma",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/spandan-sharma/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Spandan Sharma"
+        "name": "Ashwin Godura",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/ashwin-godura-28a2a4207/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Ashwin Godura"
+        "name": "Devan Grover",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/devan-grover-8966521b1/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Devan Grover"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Core Grounded Low Voltage",
-        "name": "Iris Dong"
+        "name": "Iris Dong",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/iris-dong-8a59a5193/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2470,7 +2503,10 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Caroline Kasuba"
+        "name": "Caroline Kasuba",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/carolinekasuba/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2482,19 +2518,28 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Navod Jayawardhane"
+        "name": "Navod Jayawardhane",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/navod-jayawardhane/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Esther Bedoyan"
+        "name": "Esther Bedoyan",
+        "major": "Electrical and Computer Engineering, Bioengineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/estherbedoyan/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
-        "name": "Gustav Hansen"
+        "name": "Gustav Hansen",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/kusti8/"
     },
     {
         "school": "Carnegie Mellon University",
