@@ -2155,145 +2155,194 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "President",
-        "name": "Griffin Della Grotte"
+        "name": "Griffin Della Grotte",
+        "major": "Computer Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/griffin-della-grotte-84116482/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "VP of Energetics",
-        "name": "Oliver Wang"
+        "role": "VP of Energetics, Core Grounded Low Voltage, Firmware, High Voltage Accumulator, High Voltage Tractive Systems",
+        "name": "Oliver Wang",
+        "major": "Computer Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/oliverdwang/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "VP of Finance",
-        "name": "Julia Lu"
+        "role": "VP of Finance, Chassis",
+        "name": "Julia Lu",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/julia-lu22/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "VP of Structures",
-        "name": "Aidan Honnold"
+        "name": "Aidan Honnold",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/aidanhonnold/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "VP of Marketing and Outreach",
-        "name": "Danny Marks"
+        "role": "VP of Marketing and Outreach, Driver Interface Manager",
+        "name": "Danny Marks",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/daniel-marks-297546193/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "VP of Competitive Analysis and Strategic Direction",
-        "name": "Andrew Fu"
+        "role": "VP of Competitive Analysis and Strategic Direction, Diffuser",
+        "name": "Andrew Fu",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/andrewrfu/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Aerodynamics and Composites Manager",
-        "name": "Aaron McKenzie"
+        "name": "Aaron McKenzie",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/aaronmckenzie/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Wings",
-        "name": "Annette Guo"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Diffuser",
-        "name": "Andrew Fu"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Driver Interface Manager",
-        "name": "Danny Marks"
+        "name": "Annette Guo",
+        "major": "Computer Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/annetteguo/",
+        "employed": true
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Pedals",
-        "name": "Arushi Singh"
+        "name": "Arushi Singh",
+        "major": "Mechanical Engineering, Robotics",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/arushi-singh-/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Steering Wheel",
-        "name": "Nick Saizan"
+        "name": "Nick Saizan",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/nsaizan/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Powertrain Manager",
-        "name": "Greg Woelki"
+        "name": "Greg Woelki",
+        "major": "Physics, Machine Learning",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/greg-woelki-a0a0b1137/",
+        "employed": true
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Hubs",
-        "name": "Shuming Teoh"
+        "name": "Shuming Teoh",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/shuming-teoh/",
+        "employed": true
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Brakes",
-        "name": "Tim Violino"
+        "name": "Tim Violino",
+        "major": "Computer Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/tim-violino/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Cooling - Drivetrain",
-        "name": "Laura Ochsner"
+        "name": "Laura Ochsner",
+        "major": "Computer Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/laura-ochsner-914a54147/",
+        "employed": true
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Cooling - Radiator and Loop",
-        "name": "Doria Pei"
+        "name": "Doria Pei",
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/doriapei/",
+        "employed": true
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Suspension Manager",
-        "name": "Luis Martinez"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Chassis",
-        "name": "Julia Lu"
+        "name": "Luis Martinez",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/luis-martinez-5b5ab51ab/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Uprights",
-        "name": "Jac Council"
+        "name": "Jac Council",
+        "major": "Computer Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jac-council-a71660155/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Welding",
-        "name": "Terrence Frey"
+        "name": "Terrence Frey",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/terrance-frey-6060ab184/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Control Arms",
-        "name": "Justin Chung"
+        "name": "Justin Chung",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/justin-chung-109364171/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Control Arms",
-        "name": "Jason Li"
+        "name": "Jason Li",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/jason-li-724a11141/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Bellcranks & Dampers",
-        "name": "Spencer Bowman"
+        "name": "Spencer Bowman",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/spebow/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2344,13 +2393,18 @@
         "name": "Simon Yu"
     },
     {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
         "name": "Alex White"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Core Grounded Low Voltage Captain",
-        "name": "Mrinali Nakhre"
+        "name": "Mrinali Nakhre",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/mrinali-nakhre/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2375,12 +2429,6 @@
         "team type": "Electric",
         "role": "Core Grounded Low Voltage",
         "name": "Nick Saizan"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Core Grounded Low Voltage",
-        "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2451,12 +2499,6 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "Grounded Low Voltage Development Captain",
-        "name": "Saral Tayal"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
         "role": "Grounded Low Voltage Development",
         "name": "Vamsi Ratnakaram"
     },
@@ -2500,19 +2542,16 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Firmware Captain",
-        "name": "Jason Lu"
+        "name": "Jason Lu",
+        "major": "Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/jason-x-lu/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Firmware",
         "name": "Omkar Savkur"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Firmware",
-        "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2566,7 +2605,10 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "High Voltage Accumulator Captain",
-        "name": "Jeannie Ruffley"
+        "name": "Jeannie Ruffley",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/jeannie-ruffley/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2589,32 +2631,17 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "High Voltage Accumulator",
-        "name": "Vikram Marmer"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "High Voltage Accumulator",
-        "name": "Oliver Wang"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "High Voltage Tractive Systems Captain",
-        "name": "Vikram Marmer"
+        "role": "High Voltage Tractive Systems Captain, High Voltage Accumulator",
+        "name": "Vikram Marmer",
+        "major": "Electrical and Electronics Engineering, Bioengineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/jeannie-ruffley/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "High Voltage Tractive Systems",
         "name": "Patrick Joyce"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "High Voltage Tractive Systems",
-        "name": "Oliver Wang"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2761,8 +2788,7 @@
         "email": "emf66@zips.uakron.edu",
         "major": "Computer Engineering",
         "graduation year": 2022,
-        "linkedin": "https://www.linkedin.com/in/elena-falcione-206836180/",
-        "employed": true
+        "linkedin": "https://www.linkedin.com/in/elena-falcione-206836180/"
     },
     {
         "school": "University of Akron",
