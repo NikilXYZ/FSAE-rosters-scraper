@@ -2154,7 +2154,7 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "President",
+        "role": "President, High Voltage Tractive Systems, Grounded Low Voltage Development",
         "name": "Griffin Della Grotte",
         "major": "Computer Engineering",
         "graduation year": 2020,
@@ -2496,7 +2496,7 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "Core Grounded Low Voltage",
+        "role": "Core Grounded Low Voltage, Firmware",
         "name": "Omkar Savkur"
     },
     {
@@ -2535,7 +2535,7 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "Core Grounded Low Voltage",
+        "role": "Core Grounded Low Voltage, Firmware",
         "name": "Gustav Hansen",
         "major": "Electrical and Computer Engineering",
         "graduation year": 2024,
@@ -2544,44 +2544,56 @@
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
-        "role": "Grounded Low Voltage Development",
-        "name": "Vamsi Ratnakaram"
+        "role": "Grounded Low Voltage Development, Firmware",
+        "name": "Vamsi Ratnakaram",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/vamsikrishna-ratnakaram-2a1a69193/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Grounded Low Voltage Development",
-        "name": "Bharath Sreenivas"
+        "name": "Bharath Sreenivas",
+        "major": "Computer Science",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/bsreenivas/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Grounded Low Voltage Development",
-        "name": "Sebastian Garcia"
+        "name": "Sebastian Garcia",
+        "major": "Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/garcia4242/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Grounded Low Voltage Development",
-        "name": "Prithu Pareek"
+        "name": "Prithu Pareek",
+        "major": "Electrical and Computer Engineering, Bioengineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/prithupareek/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Grounded Low Voltage Development",
-        "name": "Jeff Tan"
+        "name": "Jeff Tan",
+        "major": "Computer Science",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/jeff-tan-2344651b6/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Grounded Low Voltage Development",
-        "name": "Griffin Della Grotte"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Grounded Low Voltage Development",
-        "name": "Ravi Dudhagra"
+        "name": "Ravi Dudhagra",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/ravidudhagra/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2596,25 +2608,19 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Firmware",
-        "name": "Omkar Savkur"
+        "name": "Abhishek Agarwal",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/abhishek-agarwal-791a28172/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Firmware",
-        "name": "Vamsi Ratnakaram"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Firmware",
-        "name": "Abhishek Agarwal"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Firmware",
-        "name": "Amy Lin"
+        "name": "Amy Lin",
+        "major": "Human Computer Interaction, Business",
+        "graduation year": 2019,
+        "linkedin": "https://www.linkedin.com/in/amydlin/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2626,25 +2632,19 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Firmware",
-        "name": "Gustav Hansen"
+        "name": "Ishraaq Shams",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/ishraaq-shams-7b7011164/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "Firmware",
-        "name": "Ishraaq Shams"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Firmware",
-        "name": "Joey Wildman"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "Firmware",
-        "name": "Keren Huang"
+        "name": "Keren Huang",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/keren-h/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2659,19 +2659,19 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "High Voltage Accumulator",
-        "name": "Hongyi Lin"
+        "name": "Corrado Govea",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/corrado-govea-8095761a4/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "High Voltage Accumulator",
-        "name": "Corrado Govea"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "High Voltage Accumulator",
-        "name": "Jonathan Li"
+        "name": "Jonathan Li",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/jonathanli2012/"
     },
     {
         "school": "Carnegie Mellon University",
@@ -2686,37 +2686,28 @@
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "High Voltage Tractive Systems",
-        "name": "Patrick Joyce"
+        "name": "Patrick Joyce",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/patrick-joyce-a53901193/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "High Voltage Tractive Systems",
-        "name": "Hongyi Lin"
+        "name": "Kevin Song",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/kevin-song-31b5531a8/"
     },
     {
         "school": "Carnegie Mellon University",
         "team type": "Electric",
         "role": "High Voltage Tractive Systems",
-        "name": "Saral Tayal"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "High Voltage Tractive Systems",
-        "name": "Griffin Della Grotte"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "High Voltage Tractive Systems",
-        "name": "Kevin Song"
-    },
-    {
-        "school": "Carnegie Mellon University",
-        "team type": "Electric",
-        "role": "High Voltage Tractive Systems",
-        "name": "Mihir Lovalekar"
+        "name": "Mihir Lovalekar",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2024,
+        "linkedin": "https://www.linkedin.com/in/mihir-lovalekar-ba2584169/"
     },
     {
         "school": "University of Alabama",
