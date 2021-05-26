@@ -1723,8 +1723,9 @@
         "school": "University of Michigan",
         "team type": "Electric",
         "role": "Project Manager",
-        "name": "Sean Phelan ",
-        "major": "4th Year Mechanical Engineer",
+        "name": "Sean Phelan",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
         "email": "Sphel@umich.edu"
     },
     {
@@ -1732,7 +1733,8 @@
         "team type": "Electric",
         "role": "Technical Lead",
         "name": "Fred Ouding",
-        "major": "4th Year Mechanical Engineer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
         "email": "Fredavis@umich.edu"
     },
     {
@@ -1740,7 +1742,8 @@
         "team type": "Electric",
         "role": "Aerodynamics Lead",
         "name": "Mitchell Houghtaling",
-        "major": "4th Year Aerospace Engineer",
+        "major": "Aerospace Engineering",
+        "graduation year": 2021,
         "email": "Houghtm@umich.edu"
     },
     {
@@ -1748,7 +1751,8 @@
         "team type": "Electric",
         "role": "Business Lead",
         "name": "Spencer Nguyen",
-        "major": "1st Year Bba Student",
+        "major": "Business",
+        "graduation year": 2024,
         "email": "anhung@umich.edu"
     },
     {
@@ -1756,7 +1760,8 @@
         "team type": "Electric",
         "role": "Controls Lead",
         "name": "Madeleine Bahorski",
-        "major": "3rd Year Electrical Engineer",
+        "major": "Electrical Engineering",
+        "graduation year": 2022,
         "email": "mbahorksi@umich.edu"
     },
     {
@@ -1764,7 +1769,8 @@
         "team type": "Electric",
         "role": "Drivetrain Lead",
         "name": "Richard Zhovner",
-        "major": "2nd Year Mechanical Engineer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
         "email": "rzhov@umich.edu"
     },
     {
@@ -1772,7 +1778,8 @@
         "team type": "Electric",
         "role": "Ergonomics Lead",
         "name": "Sujay Racha",
-        "major": "2nd Year Mechanical Engineer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2023,
         "email": "suracha@umich.edu"
     },
     {
@@ -1780,7 +1787,8 @@
         "team type": "Electric",
         "role": "Ev Powertrain Lead",
         "name": "Jehian Kusumadjaja",
-        "major": "3rd Year Computer Engineer",
+        "major": "Computer Engineering",
+        "graduation year": 2021,
         "email": "jehiank@umich.edu"
     },
     {
@@ -1788,7 +1796,8 @@
         "team type": "Electric",
         "role": "Public Relations Chair",
         "name": "Sahil Saini",
-        "major": "4th Year Mechanical Engineer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
         "email": "sssaini@umich.edu"
     },
     {
@@ -1796,7 +1805,8 @@
         "team type": "Electric",
         "role": "Vehicle Dynamic Control Lead",
         "name": "Neel Patel",
-        "major": "4th Year Mechanical Engineer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
         "email": "nspatelz@umich.edu"
     },
     {
