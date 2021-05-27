@@ -325,37 +325,55 @@
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "President",
-        "name": "Efran Martinez"
+        "name": "Efran Martinez",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/efranmartinez/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Vice President",
-        "name": "Dante Khandelwal"
+        "name": "Dante Khandelwal",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/dante-khandelwal/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Project Manager",
-        "name": "Jack Ringelberg"
+        "name": "Jack Ringelberg",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jack-ringelberg-84a8a91ba/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Technical Director",
-        "name": "Charlie Roman"
+        "name": "Charlie Roman",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/charles-roman-49b12b194/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Technical Director",
-        "name": "Lochlan Davies Guest"
+        "name": "Lochlan Davies Guest",
+        "major": "Aerospace Structural Engineering",
+        "graduation year": 2023,
+        "linkedin": "https://www.linkedin.com/in/efranmartinez/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Public Relations Director",
-        "name": "Cameron Brody"
+        "name": "Cameron Brody",
+        "major": "Data Science",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/cameron-brody-728816142/"
     },
     {
         "school": "University of California San Diego",
@@ -366,26 +384,29 @@
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
-        "role": "Electrical Lead",
-        "name": "Weifan Ou"
-    },
-    {
-        "school": "University of California San Diego",
-        "team type": "Combustion",
         "role": "Powertrain Lead",
-        "name": "Hiruni Perera"
+        "name": "Hiruni Perera",
+        "major": "Aerospace Structural Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/hiruni-perera/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Chassis Lead",
-        "name": "Nathan Han"
+        "name": "Nathan Han",
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/nathan-han-1b433417b/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Suspension Lead",
-        "name": "Carlos Guerreros"
+        "name": "Carlos Guerreros",
+        "major": "Computer Science",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/carlos-guerrero7b9317b/"
     },
     {
         "school": "University of California San Diego",
@@ -397,13 +418,19 @@
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Electrical Lead",
-        "name": "Carter Nielson"
+        "name": "Carter Nielson",
+        "major": "Cognitive Science - Machine Learning and Neural Computation",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/carter-nielsen-a18463178/"
     },
     {
         "school": "University of California San Diego",
         "team type": "Combustion",
         "role": "Powertrain Lead",
-        "name": "Matthew Gao"
+        "name": "Matthew Gao",
+        "major": "Aerospace Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/matthew-gao-812294171/"
     },
     {
         "school": "University of California San Diego",
