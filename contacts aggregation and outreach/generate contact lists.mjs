@@ -11,7 +11,13 @@ let we_know_linkedin = (student) => !!student["linkedin"]
 let students_to_email = students.filter(student => (
     (graduates_in_2021(student) || we_dont_know_graduation_year(student)) &&
     (we_know_email(student))
-))
+)).map(student => {
+    // I can't use array destructuring in the off-case that someone has a middle name
+    let name_array = student["name"].split(" ")
+    student["first name"] = name_array[0]
+    student["last name"] = name_array[name_array.length-1]
+    return student
+})
 
 let students_to_linkedin = students.filter(student => (
     (graduates_in_2021(student) || we_dont_know_graduation_year(student)) &&

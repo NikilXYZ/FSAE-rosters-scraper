@@ -1,85 +1,85 @@
-"school","team type","role","name","major","email","linkedin"
-"Western Washington University","Combustion","Project Manager","Sean Lawrence","Manufacturing Engineering","sean.lawrence@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Technical Director","Adam Hess","Industrial Technology—Vehicle Design","adam.hess@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Business Director","Allison Mazurek","Plastics and Composites Engineering/Communication Studies","allison.mazurek@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Aerodynamics Lead","Chris Baumgartner","Plastics and Composites Engineering","chris.baumgartner@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Aerodynamics Assistant Lead","Alec Newton","Plastics and Composites Engineering","alec.newton@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Chassis Lead","Ellison Brink","Plastics and Composites Engineering","ellison.brink@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Electronics Lead","Peter Schinske","Computer Science","peter.schinske@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Electronics Assistant Lead","Daniel Young","Electrical Engineering","daniel.young@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Ergonomics Lead","Ingrid Shipstead","Manufacturing Engineering","ingrid.shipstead@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Ergonomics Assistant Lead","Jocelyn Ocampo","Manufacturing Engineering","jocelyn.ocampo@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Powertrain Lead","Chandler Johnston","Electrical Engineering—Energy Concentration","chandler.johnston@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Powertrain Assistant Lead","Niklas Dolph","Plastics and Composites Engineering","niklas.dolph@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Suspension Lead","Matthew Evanoff","Plastics and Composites Engineering","matthew.evanoff@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Western Washington University","Combustion","Suspension Assistant Lead","Alexander West","Plastics and Composites Engineering","alexander.west@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/"
-"Virginia Tech","Combustion","Team Lead","Josh Kintz","Mechanical Engineering","joshk919@vt.edu","https://www.linkedin.com/in/joshua-kintz-257091161/"
-"Virginia Tech","Combustion","Suspension Lead","Matt Watterson","Mechanical Engineering","mwatters@vt.edu","https://www.linkedin.com/in/matthew-watterson-a3805a160/"
-"Virginia Tech","Combustion","​Electric Powertrain Lead","Adam Yi","Electrical Engineering: Energy and Power Electronics","adamkyi@vt.edu","https://www.linkedin.com/in/adam-y-a3767812a/"
-"Virginia Tech","Combustion","​Drivetrain Lead","Srivatsa Harish","Mechanical Engineering","sharish@vt.edu","https://www.linkedin.com/in/srivatsa-harish/"
-"Virginia Tech","Combustion","Engine Lead","Tyler Martin","Mechanical Engineering","tyler18@vt.edu","https://www.linkedin.com/in/tyler-martin-790a521ba/"
-"Virginia Tech","Combustion","Testing Lead","Haley Simkins","Mechanical Engineering","haleyss@vt.edu","https://www.linkedin.com/in/haley-simkins-1b20a4182/"
-"University of Connecticut","Combustion","President","Cal Pitruzzello",,"cal.pitruzzello@uconn.edu",
-"University of Connecticut","Combustion","Chief Engineer","Adam Velardi",,"adam.velardi@uconn.edu",
-"University of Connecticut","Combustion","Treasurer","Parth Kekare",,"parth.kekare@uconn.edu",
-"University of Connecticut","Combustion","Business/Secretary","Brandon Koehler",,"brandon.koehler@uconn.edu",
-"University of Connecticut","Combustion","Aerodynamics","Natalie Connors",,"natalie.connors@uconn.edu",
-"University of Connecticut","Combustion","Composites","Liam Gerety",,"liam.gerety@uconn.edu",
-"University of Connecticut","Combustion","Controls and Ergonomics","Simon Getter",,"simon.getter@uconn.edu",
-"University of Connecticut","Combustion","Data Acquisition","Gus Pac",,"augustus.pac@uconn.edu",
-"University of Connecticut","Combustion","Electrical","Stephen Pang",,"stephen.pang@uconn.edu",
-"University of Connecticut","Combustion","Frame","Emma Finnerty",,"emma.finnerty@uconn.edu",
-"University of Connecticut","Combustion","Powertrain","Kurt Jonke",,"kurt.jonke@uconn.edu",
-"University of Connecticut","Combustion","Suspension","Natalie Paliulis",,"natalie.paliulis@uconn.edu",
-"University of California Davis","Combustion","Project Manager","Peter Milam","Mechanical Engineering, Aerospace Engineering","ptmilam@ucdavis.edu",
-"University of California Davis","Combustion","Suspension Lead","Stuart Scolaro","Mechanical Engineering","slscolaro@ucdavis.edu",
-"University of California Davis","Combustion","Vehicle Dynamics Lead","Blake Christierson","Mechanical Engineering","bechristierson@ucdavis.edu",
-"University of California Davis","Combustion","Electrical Operations Lead","Tucker Zischka","Electrical Engineering","thzischka@ucdavis.edu",
-"University of California Davis","Combustion","Power Electronics Lead","Osama Abualsoud","Electrical Engineering","ooabualsoud@ucdavis.edu",
-"University of California Davis","Combustion","Honorary Aerodynamics Lead","Stephen Rivest","Aerospace & Mechanical Engineering","sjrivest@ucdavis.edu",
-"University of California Davis","Combustion","Composites Lead","Anahut Sandhu","Chemical Engineering","ansandhu@ucdavis.edu",
-"University of California Davis","Combustion","Ground Low Voltage Lead","Austin Ambrose","Electrical Engineering","pambrose@ucdavis.edu",
-"University of Nebraska","Combustion","Captain","John Kolar",,"johnkolar@huskers.unl.edu","https://www.linkedin.com/in/john-kolar-36469520b/"
-"University of Nebraska","Combustion","Adviser","Dr. Sangjin Ryu",,"sangjin.ryu@unl.edu",
-"Missouri S&T","Combustion","Team Advisor","Dr. Henry Pernicka",,"pernicka@mst.edu",
-"Missouri S&T","Combustion","Team Leader","Zach ""Turbo"" Hoffman",,"zwhfkd@mst.edu",
-"Missouri S&T","Combustion","Chief Engineer","Jacob Parkhurst",,"jrpzt4@mst.edu",
-"Missouri S&T","Combustion","Secretary","John Hansen",,"jrhnmw@mst.edu",
-"Missouri S&T","Combustion","Business Manager","Chase Johnson",,"chasejohnson@mst.edu",
-"Missouri S&T","Combustion","Powertrain","Ross Lippencott",,"rgl3dd@umsystem.edu",
-"Missouri S&T","Combustion","Vehicle Dynamics","Jacob Parkhurst",,"jrpzt4@mst.edu",
-"Missouri S&T","Combustion","Manufacturing","Trenton Childress",,"tpcw9d@mst.edu",
-"Missouri S&T","Combustion","Ian Law","Electrical Lead",,"ivhhc@umsystem.edu",
-"Missouri S&T","Combustion","Aerodynamics","Isaiah Morrow",,"itmn74@mst.edu",
-"Missouri S&T","Combustion","Composites","Tyler Winner",,"%20tjwnpf@umsystem.edu",
-"Missouri S&T","Combustion","Drivetrain","Zachary Freestone",,"zbf6m4@mst.edu",
-"Missouri S&T","Combustion","Brakes","Aidan Greiner",,"aag7h4@mst.edu",
-"Missouri S&T","Combustion","Intake/Exhaust","Mark Farr",,"mafbyd@umsystem.edu",
-"Missouri S&T","Combustion","Cooling","Kaleb Tuinstra",,"kmtt35@umsystem.edu",
-"Missouri S&T","Combustion","Fuel/Oil","Logan Chazen",,"ldcpfd@umsystem.edu",
-"Missouri S&T","Combustion","Steering & Controls","Derek Edwards",,"daemwp@umsystem.edu",
-"Missouri S&T","Combustion","Suspension","Jason Schlaud",,"jasmyb@umsystem.edu",
-"Missouri S&T","Combustion","Corners","Joe Leonard",,"jclrnq@mst.edu",
-"Missouri S&T","Combustion","Front Wing","Raymond Helmig",,"rlhyyb@mst.edu",
-"Missouri S&T","Combustion","Shop Manager","Tyler Gastrich",,"tjg86f@mst.edu",
-"Missouri S&T","Combustion","Monocoque Research","Warren Smith",,"rlhyyb@umsystem.edu",
-"Missouri S&T","Combustion","Frame","Ian Herling",,"idhmgh@mst.edu",
-"University of Michigan","Electric","Project Manager","Sean Phelan","Mechanical Engineering","Sphel@umich.edu","https://www.linkedin.com/in/sean-phelan-426225212/"
-"University of Michigan","Electric","Technical Lead","Fred Ouding","Mechanical Engineering","Fredavis@umich.edu","https://www.linkedin.com/in/frederick-ouding-aab9b2192/"
-"University of Michigan","Electric","Aerodynamics Lead","Mitchell Houghtaling","Aerospace Engineering","Houghtm@umich.edu","https://www.linkedin.com/in/mitchell-houghtaling-709b3013b/"
-"University of Michigan","Electric","Public Relations Chair","Sahil Saini","Mechanical Engineering","sssaini@umich.edu","https://www.linkedin.com/in/sahil-saini-011/"
-"University of Michigan","Electric","Vehicle Dynamic Control Lead","Neel Patel","Mechanical Engineering","nspatelz@umich.edu",
-"University of Alabama","Combustion","Team Manager","Stephen Thomas","Mechanical Engineering","swthomas@crimson.ua.edu",
-"University of Alabama","Combustion","Engineering Manager","Garret Kingsbury",,"gekingsbury@crimson.ua.edu",
-"University of Alabama","Combustion","Business Manager","Jacob Paul",,"jbpaul@crimson.ua.edu",
-"University of Alabama","Combustion","Frame Lead","Joshua Cook","Mechanical Engineering","jacook10@crimson.ua.edu",
-"University of Alabama","Combustion","Composites Lead","Max Glaser","Mechanical Engineering","mmglaser@crimson.ua.edu",
-"University of Alabama","Combustion","Powertrain Lead","Noah Greer",,"ndgreer@crimson.ua.edu",
-"University of Alabama","Combustion","Aerodynamics Lead","Markian Kuropas","Aerospace Engineering","mjkuropas@crimson.ua.edu",
-"University of Alabama","Combustion","Suspension Lead","Mason Maze","Mechanical Engineering","mkmaze@crimson.ua.edu",
-"University of Alabama","Combustion","Electrical Lead","Aaron Suarez",,"ahsuarez@crimson.ua.edu",
-"University of Alabama","Combustion","Manufacturing Lead","Christian Austin",,"claustin1@crimson.ua.edu",
-"University of Alabama","Combustion","Advertising Lead","Samantha Boggs",,"sboggs1@crimson.ua.edu",
-"University of Alabama","Combustion","Financial Lead","Ben Silvey",,"basilvey@crimson.ua.edu",
-"University of Alabama","Combustion","Presentation Lead","Lauren Woods",,"lewoods1@crimson.ua.edu",
-"University of Akron","Electric","Secretary and Powertrain Lead","Natalie Allen","Bioengineering","nja28@zips.uakron.edu","https://www.linkedin.com/in/natalie-allen-2021/"
+"school","team type","role","name","major","email","linkedin","first name","last name"
+"Western Washington University","Combustion","Project Manager","Sean Lawrence","Manufacturing Engineering","sean.lawrence@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Sean","Lawrence"
+"Western Washington University","Combustion","Technical Director","Adam Hess","Industrial Technology—Vehicle Design","adam.hess@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Adam","Hess"
+"Western Washington University","Combustion","Business Director","Allison Mazurek","Plastics and Composites Engineering/Communication Studies","allison.mazurek@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Allison","Mazurek"
+"Western Washington University","Combustion","Aerodynamics Lead","Chris Baumgartner","Plastics and Composites Engineering","chris.baumgartner@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Chris","Baumgartner"
+"Western Washington University","Combustion","Aerodynamics Assistant Lead","Alec Newton","Plastics and Composites Engineering","alec.newton@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Alec","Newton"
+"Western Washington University","Combustion","Chassis Lead","Ellison Brink","Plastics and Composites Engineering","ellison.brink@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Ellison","Brink"
+"Western Washington University","Combustion","Electronics Lead","Peter Schinske","Computer Science","peter.schinske@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Peter","Schinske"
+"Western Washington University","Combustion","Electronics Assistant Lead","Daniel Young","Electrical Engineering","daniel.young@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Daniel","Young"
+"Western Washington University","Combustion","Ergonomics Lead","Ingrid Shipstead","Manufacturing Engineering","ingrid.shipstead@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Ingrid","Shipstead"
+"Western Washington University","Combustion","Ergonomics Assistant Lead","Jocelyn Ocampo","Manufacturing Engineering","jocelyn.ocampo@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Jocelyn","Ocampo"
+"Western Washington University","Combustion","Powertrain Lead","Chandler Johnston","Electrical Engineering—Energy Concentration","chandler.johnston@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Chandler","Johnston"
+"Western Washington University","Combustion","Powertrain Assistant Lead","Niklas Dolph","Plastics and Composites Engineering","niklas.dolph@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Niklas","Dolph"
+"Western Washington University","Combustion","Suspension Lead","Matthew Evanoff","Plastics and Composites Engineering","matthew.evanoff@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Matthew","Evanoff"
+"Western Washington University","Combustion","Suspension Assistant Lead","Alexander West","Plastics and Composites Engineering","alexander.west@wwufsae.com","https://www.linkedin.com/in/sean-lawrence-793a77183/","Alexander","West"
+"Virginia Tech","Combustion","Team Lead","Josh Kintz","Mechanical Engineering","joshk919@vt.edu","https://www.linkedin.com/in/joshua-kintz-257091161/","Josh","Kintz"
+"Virginia Tech","Combustion","Suspension Lead","Matt Watterson","Mechanical Engineering","mwatters@vt.edu","https://www.linkedin.com/in/matthew-watterson-a3805a160/","Matt","Watterson"
+"Virginia Tech","Combustion","​Electric Powertrain Lead","Adam Yi","Electrical Engineering: Energy and Power Electronics","adamkyi@vt.edu","https://www.linkedin.com/in/adam-y-a3767812a/","Adam","Yi"
+"Virginia Tech","Combustion","​Drivetrain Lead","Srivatsa Harish","Mechanical Engineering","sharish@vt.edu","https://www.linkedin.com/in/srivatsa-harish/","Srivatsa","Harish"
+"Virginia Tech","Combustion","Engine Lead","Tyler Martin","Mechanical Engineering","tyler18@vt.edu","https://www.linkedin.com/in/tyler-martin-790a521ba/","Tyler","Martin"
+"Virginia Tech","Combustion","Testing Lead","Haley Simkins","Mechanical Engineering","haleyss@vt.edu","https://www.linkedin.com/in/haley-simkins-1b20a4182/","Haley","Simkins"
+"University of Connecticut","Combustion","President","Cal Pitruzzello",,"cal.pitruzzello@uconn.edu",,"Cal","Pitruzzello"
+"University of Connecticut","Combustion","Chief Engineer","Adam Velardi",,"adam.velardi@uconn.edu",,"Adam","Velardi"
+"University of Connecticut","Combustion","Treasurer","Parth Kekare",,"parth.kekare@uconn.edu",,"Parth","Kekare"
+"University of Connecticut","Combustion","Business/Secretary","Brandon Koehler",,"brandon.koehler@uconn.edu",,"Brandon","Koehler"
+"University of Connecticut","Combustion","Aerodynamics","Natalie Connors",,"natalie.connors@uconn.edu",,"Natalie","Connors"
+"University of Connecticut","Combustion","Composites","Liam Gerety",,"liam.gerety@uconn.edu",,"Liam","Gerety"
+"University of Connecticut","Combustion","Controls and Ergonomics","Simon Getter",,"simon.getter@uconn.edu",,"Simon","Getter"
+"University of Connecticut","Combustion","Data Acquisition","Gus Pac",,"augustus.pac@uconn.edu",,"Gus","Pac"
+"University of Connecticut","Combustion","Electrical","Stephen Pang",,"stephen.pang@uconn.edu",,"Stephen","Pang"
+"University of Connecticut","Combustion","Frame","Emma Finnerty",,"emma.finnerty@uconn.edu",,"Emma","Finnerty"
+"University of Connecticut","Combustion","Powertrain","Kurt Jonke",,"kurt.jonke@uconn.edu",,"Kurt","Jonke"
+"University of Connecticut","Combustion","Suspension","Natalie Paliulis",,"natalie.paliulis@uconn.edu",,"Natalie","Paliulis"
+"University of California Davis","Combustion","Project Manager","Peter Milam","Mechanical Engineering, Aerospace Engineering","ptmilam@ucdavis.edu",,"Peter","Milam"
+"University of California Davis","Combustion","Suspension Lead","Stuart Scolaro","Mechanical Engineering","slscolaro@ucdavis.edu",,"Stuart","Scolaro"
+"University of California Davis","Combustion","Vehicle Dynamics Lead","Blake Christierson","Mechanical Engineering","bechristierson@ucdavis.edu",,"Blake","Christierson"
+"University of California Davis","Combustion","Electrical Operations Lead","Tucker Zischka","Electrical Engineering","thzischka@ucdavis.edu",,"Tucker","Zischka"
+"University of California Davis","Combustion","Power Electronics Lead","Osama Abualsoud","Electrical Engineering","ooabualsoud@ucdavis.edu",,"Osama","Abualsoud"
+"University of California Davis","Combustion","Honorary Aerodynamics Lead","Stephen Rivest","Aerospace & Mechanical Engineering","sjrivest@ucdavis.edu",,"Stephen","Rivest"
+"University of California Davis","Combustion","Composites Lead","Anahut Sandhu","Chemical Engineering","ansandhu@ucdavis.edu",,"Anahut","Sandhu"
+"University of California Davis","Combustion","Ground Low Voltage Lead","Austin Ambrose","Electrical Engineering","pambrose@ucdavis.edu",,"Austin","Ambrose"
+"University of Nebraska","Combustion","Captain","John Kolar",,"johnkolar@huskers.unl.edu","https://www.linkedin.com/in/john-kolar-36469520b/","John","Kolar"
+"University of Nebraska","Combustion","Adviser","Dr. Sangjin Ryu",,"sangjin.ryu@unl.edu",,"Dr.","Ryu"
+"Missouri S&T","Combustion","Team Advisor","Dr. Henry Pernicka",,"pernicka@mst.edu",,"Dr.","Pernicka"
+"Missouri S&T","Combustion","Team Leader","Zach ""Turbo"" Hoffman",,"zwhfkd@mst.edu",,"Zach","Hoffman"
+"Missouri S&T","Combustion","Chief Engineer","Jacob Parkhurst",,"jrpzt4@mst.edu",,"Jacob","Parkhurst"
+"Missouri S&T","Combustion","Secretary","John Hansen",,"jrhnmw@mst.edu",,"John","Hansen"
+"Missouri S&T","Combustion","Business Manager","Chase Johnson",,"chasejohnson@mst.edu",,"Chase","Johnson"
+"Missouri S&T","Combustion","Powertrain","Ross Lippencott",,"rgl3dd@umsystem.edu",,"Ross","Lippencott"
+"Missouri S&T","Combustion","Vehicle Dynamics","Jacob Parkhurst",,"jrpzt4@mst.edu",,"Jacob","Parkhurst"
+"Missouri S&T","Combustion","Manufacturing","Trenton Childress",,"tpcw9d@mst.edu",,"Trenton","Childress"
+"Missouri S&T","Combustion","Ian Law","Electrical Lead",,"ivhhc@umsystem.edu",,"Electrical","Lead"
+"Missouri S&T","Combustion","Aerodynamics","Isaiah Morrow",,"itmn74@mst.edu",,"Isaiah","Morrow"
+"Missouri S&T","Combustion","Composites","Tyler Winner",,"%20tjwnpf@umsystem.edu",,"Tyler","Winner"
+"Missouri S&T","Combustion","Drivetrain","Zachary Freestone",,"zbf6m4@mst.edu",,"Zachary","Freestone"
+"Missouri S&T","Combustion","Brakes","Aidan Greiner",,"aag7h4@mst.edu",,"Aidan","Greiner"
+"Missouri S&T","Combustion","Intake/Exhaust","Mark Farr",,"mafbyd@umsystem.edu",,"Mark","Farr"
+"Missouri S&T","Combustion","Cooling","Kaleb Tuinstra",,"kmtt35@umsystem.edu",,"Kaleb","Tuinstra"
+"Missouri S&T","Combustion","Fuel/Oil","Logan Chazen",,"ldcpfd@umsystem.edu",,"Logan","Chazen"
+"Missouri S&T","Combustion","Steering & Controls","Derek Edwards",,"daemwp@umsystem.edu",,"Derek","Edwards"
+"Missouri S&T","Combustion","Suspension","Jason Schlaud",,"jasmyb@umsystem.edu",,"Jason","Schlaud"
+"Missouri S&T","Combustion","Corners","Joe Leonard",,"jclrnq@mst.edu",,"Joe","Leonard"
+"Missouri S&T","Combustion","Front Wing","Raymond Helmig",,"rlhyyb@mst.edu",,"Raymond","Helmig"
+"Missouri S&T","Combustion","Shop Manager","Tyler Gastrich",,"tjg86f@mst.edu",,"Tyler","Gastrich"
+"Missouri S&T","Combustion","Monocoque Research","Warren Smith",,"rlhyyb@umsystem.edu",,"Warren","Smith"
+"Missouri S&T","Combustion","Frame","Ian Herling",,"idhmgh@mst.edu",,"Ian","Herling"
+"University of Michigan","Electric","Project Manager","Sean Phelan","Mechanical Engineering","Sphel@umich.edu","https://www.linkedin.com/in/sean-phelan-426225212/","Sean","Phelan"
+"University of Michigan","Electric","Technical Lead","Fred Ouding","Mechanical Engineering","Fredavis@umich.edu","https://www.linkedin.com/in/frederick-ouding-aab9b2192/","Fred","Ouding"
+"University of Michigan","Electric","Aerodynamics Lead","Mitchell Houghtaling","Aerospace Engineering","Houghtm@umich.edu","https://www.linkedin.com/in/mitchell-houghtaling-709b3013b/","Mitchell","Houghtaling"
+"University of Michigan","Electric","Public Relations Chair","Sahil Saini","Mechanical Engineering","sssaini@umich.edu","https://www.linkedin.com/in/sahil-saini-011/","Sahil","Saini"
+"University of Michigan","Electric","Vehicle Dynamic Control Lead","Neel Patel","Mechanical Engineering","nspatelz@umich.edu",,"Neel","Patel"
+"University of Alabama","Combustion","Team Manager","Stephen Thomas","Mechanical Engineering","swthomas@crimson.ua.edu",,"Stephen","Thomas"
+"University of Alabama","Combustion","Engineering Manager","Garret Kingsbury",,"gekingsbury@crimson.ua.edu",,"Garret","Kingsbury"
+"University of Alabama","Combustion","Business Manager","Jacob Paul",,"jbpaul@crimson.ua.edu",,"Jacob","Paul"
+"University of Alabama","Combustion","Frame Lead","Joshua Cook","Mechanical Engineering","jacook10@crimson.ua.edu",,"Joshua","Cook"
+"University of Alabama","Combustion","Composites Lead","Max Glaser","Mechanical Engineering","mmglaser@crimson.ua.edu",,"Max","Glaser"
+"University of Alabama","Combustion","Powertrain Lead","Noah Greer",,"ndgreer@crimson.ua.edu",,"Noah","Greer"
+"University of Alabama","Combustion","Aerodynamics Lead","Markian Kuropas","Aerospace Engineering","mjkuropas@crimson.ua.edu",,"Markian","Kuropas"
+"University of Alabama","Combustion","Suspension Lead","Mason Maze","Mechanical Engineering","mkmaze@crimson.ua.edu",,"Mason","Maze"
+"University of Alabama","Combustion","Electrical Lead","Aaron Suarez",,"ahsuarez@crimson.ua.edu",,"Aaron","Suarez"
+"University of Alabama","Combustion","Manufacturing Lead","Christian Austin",,"claustin1@crimson.ua.edu",,"Christian","Austin"
+"University of Alabama","Combustion","Advertising Lead","Samantha Boggs",,"sboggs1@crimson.ua.edu",,"Samantha","Boggs"
+"University of Alabama","Combustion","Financial Lead","Ben Silvey",,"basilvey@crimson.ua.edu",,"Ben","Silvey"
+"University of Alabama","Combustion","Presentation Lead","Lauren Woods",,"lewoods1@crimson.ua.edu",,"Lauren","Woods"
+"University of Akron","Electric","Secretary and Powertrain Lead","Natalie Allen","Bioengineering","nja28@zips.uakron.edu","https://www.linkedin.com/in/natalie-allen-2021/","Natalie","Allen"
