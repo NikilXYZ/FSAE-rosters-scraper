@@ -909,7 +909,9 @@
         "role": "Project Manager",
         "name": "Dalton Engelbart",
         "major": "​Mechanical Engineering ",
-        "graduation year": 2019
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/dalton-engelbart-83866616a/",
+        "employed": true
     },
     {
         "school": "University of Nebraska",
@@ -917,7 +919,9 @@
         "role": "Chief Engineer",
         "name": "Logan Altman",
         "major": "Mechanical Engineering",
-        "graduation year": 2020
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/logan-altman-b40190136/",
+        "employed": true
     },
     {
         "school": "University of Nebraska",
@@ -925,7 +929,8 @@
         "role": "Powertrain Team",
         "name": "Max Boslaugh",
         "major": "Mechanical Engineering",
-        "graduation year": 2022
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/maxboslaugh/"
     },
     {
         "school": "University of Nebraska",
@@ -933,7 +938,8 @@
         "role": "Powertrain Team",
         "name": "Adam Johnson",
         "major": "​Mechanical Engineering",
-        "graduation year": 2022
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/adam-johnson-41a582193/"
     },
     {
         "school": "University of Nebraska",
@@ -941,7 +947,8 @@
         "role": "Suspension Team",
         "name": "Zachary Mollohan",
         "major": "​Mechanical Engineering",
-        "graduation year": 2025
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/zachary-mollohan/"
     },
     {
         "school": "University of Nebraska",
@@ -949,7 +956,9 @@
         "role": "Chassis Lead",
         "name": "Bricen Margritz",
         "major": "Mechanical Engineering",
-        "graduation year": 2020
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/bricen-margritz-499bb6196/",
+        "employed": true
     },
     {
         "school": "University of Nebraska",
@@ -957,7 +966,8 @@
         "role": "Electrical Lead",
         "name": "Grace Larsen",
         "major": "Electrical Engineering",
-        "graduation year": 2022
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/grace-larsen-7772041a3/"
     },
     {
         "school": "University of Nebraska",
@@ -973,7 +983,8 @@
         "role": "Suspension Team",
         "name": "Joseph Ehrisman",
         "major": "Mechanical Engineering",
-        "graduation year": 2019
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/joseph-ehrisman-558569201/"
     },
     {
         "school": "University of Nebraska",
@@ -981,7 +992,8 @@
         "role": "Aerodynamics Team",
         "name": "Trent Stobaugh",
         "major": "Mechanical Engineering",
-        "graduation year": 2020
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/trent-stobaugh-2395091b2/"
     },
     {
         "school": "University of Nebraska",
@@ -997,7 +1009,8 @@
         "role": "Shop Manager",
         "name": "Kyle Bohling",
         "major": "Mech Systems",
-        "graduation year": 2020
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/kyle-bohling-411693208/"
     },
     {
         "school": "University of Nebraska",
@@ -1005,7 +1018,8 @@
         "role": "Powertrain Team",
         "name": "Isaac Klar",
         "major": "Mechanical Engineering",
-        "graduation year": 2022
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/isaac-klar-893a1b201/"
     },
     {
         "school": "University of Nebraska",
@@ -1013,7 +1027,9 @@
         "role": "Suspension Team",
         "name": "Peyton Stanczyk",
         "major": "Mechanical Engineering",
-        "graduation year": 2019
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/peyton-stanczyk-629b7a171/",
+        "employed": true
     },
     {
         "school": "University of Nebraska",
@@ -1021,7 +1037,8 @@
         "role": "Aerodynamics Lead",
         "name": "Kaleab Mengistu",
         "major": "Mechanical Engineering",
-        "graduation year": 2022
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/kaleab-mengistu-6476a5192/",
     },
     {
         "school": "University of Nebraska",
@@ -1029,7 +1046,8 @@
         "role": "Electrical Lead",
         "name": "Dawson Miller",
         "major": "Electrical Engineering",
-        "graduation year": 2020
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/dawson-miller-994b5817a/"
     },
     {
         "school": "University of Nebraska",
@@ -1042,20 +1060,27 @@
         "team type": "Combustion",
         "role": "Captain",
         "name": "John Kolar",
+        "graduation year": 2021,
         "email": "johnkolar@huskers.unl.edu",
-        "phone": "(248)-688-7444"
+        "phone": "(248)-688-7444",
+        "linkedin": "https://www.linkedin.com/in/john-kolar-36469520b/"
     },
     {
         "school": "University of Nebraska",
         "team type": "Combustion",
         "role": "Project Manager",
-        "name": "Galen Kramer"
+        "name": "Galen Kramer",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/galen-kramer-9b42851b5/",
+        "employed": true
     },
     {
         "school": "University of Nebraska",
         "team type": "Combustion",
         "role": "Project Manager",
-        "name": "Andrew Johnson"
+        "name": "Andrew Johnson",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/andrew-johnson-487405149/"
     },
     {
         "school": "University of Nebraska",
