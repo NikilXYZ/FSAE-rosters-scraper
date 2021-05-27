@@ -1591,133 +1591,167 @@
         "team type": "Combustion",
         "role": "Team Captain",
         "name": "Jared Dirksen",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jareddirksen/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Technical Director",
         "name": "Teddy Gartland",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/teddy-gartland-2605b6177/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Chassis Director",
         "name": "Jacob Thayer",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jacob-thayer-9757771b1/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Driver Interface Lead",
         "name": "Jackson MacLeod",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jackson-macleod-7101b2154/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Monocoque Lead",
         "name": "Jefferson Wang",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jefferson-wang-2853a216b/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Brakes Lead",
         "name": "Brendan Doherty",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/brendan-doherty-6b2954163/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Suspension Hardware Lead",
         "name": "Luca Ranzani",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/luca-ranzani/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Vehicle Dynamics Lead",
         "name": "Christopher Currey",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/christophercurrey/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Drivetrain Lead",
         "name": "Xuanwen Huang",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/xuanwenhuang/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Powertrain Director",
         "name": "Tom Eggleston",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/thomas-eggleston-258543126/",
+        "employed": true
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Aerodynamics Lead",
         "name": "Charly Zhang",
-        "major": "Aerospace Engineering"
+        "major": "Aerospace Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/tingxuan-zhang-517481192/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Electronics Lead",
         "name": "Anya Svintsitski",
-        "major": "Electrical Engineering"
+        "major": "Electrical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/anya-svintsitski-7b7144189/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Electronics Lead",
         "name": "Alex Willis",
-        "major": "Electrical Engineering"
+        "major": "Electrical Engineering",
+        "graduation year": 2022,
+        "linkedin": "https://www.linkedin.com/in/alex-willis-1401561b6/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Driver",
-        "name": "Jackson Macleod",
-        "major": "Mechanical Engineering"
+        "name": "Jackson MacLeod",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jackson-macleod-7101b2154/"
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
-        "role": "Driver",
+        "role": "Driver, Business",
         "name": "Matt Parker",
-        "major": "Industrial & Operations Engineering"
+        "major": "Industrial & Operations Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/matthew-parker-a14a4015a/",
+        "employed": true
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Glorified New Kid",
         "name": "Taaron Foote",
-        "major": "Mechanical Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/taaron-foote-3642a0127/",
+        "employed": true
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Solder Lead",
         "name": "Nithin Vedamuthu",
-        "major": "Electrical Engineering"
+        "major": "Electrical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/nithinmike/",
+        "employed": true
     },
     {
         "school": "University of Michigan",
         "team type": "Combustion",
         "role": "Structual Simulation Lead",
         "name": "Brendan Prast",
-        "major": "Mechanical Engineering"
-    },
-    {
-        "school": "University of Michigan",
-        "team type": "Combustion",
-        "role": "Business",
-        "name": "Matt Parker",
-        "major": "Industrial & Operations Engineering"
+        "major": "Mechanical Engineering",
+        "graduation year": 2020,
+        "linkedin": "https://www.linkedin.com/in/brendan-prast-a97b71101/",
+        "employed": true
     },
     {
         "school": "University of Michigan",
