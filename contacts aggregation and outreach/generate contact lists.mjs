@@ -13,6 +13,8 @@ let students_to_email = students.filter(student => (
     (we_know_email(student))
 )).map(student => {
     // I can't use array destructuring in the off-case that someone has a middle name
+    // this doesn't work perfectly either because there are a couple of professors in the list with a Dr. at the beginning
+    // Need to change it to a regex
     let name_array = student["name"].split(" ")
     student["first name"] = name_array[0]
     student["last name"] = name_array[name_array.length-1]
