@@ -1,0 +1,641 @@
+[
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Project Manager",
+        "name": "Sean Lawrence",
+        "major": "Manufacturing Engineering",
+        "email": "sean.lawrence@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Technical Director",
+        "name": "Adam Hess",
+        "major": "Industrial Technology—Vehicle Design",
+        "email": "adam.hess@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Business Director",
+        "name": "Allison Mazurek",
+        "major": "Plastics and Composites Engineering/Communication Studies",
+        "email": "allison.mazurek@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Aerodynamics Lead",
+        "name": "Chris Baumgartner",
+        "major": "Plastics and Composites Engineering",
+        "email": "chris.baumgartner@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Aerodynamics Assistant Lead",
+        "name": "Alec Newton",
+        "major": "Plastics and Composites Engineering",
+        "email": "alec.newton@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Chassis Lead",
+        "name": "Ellison Brink",
+        "major": "Plastics and Composites Engineering",
+        "email": "ellison.brink@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Electronics Lead",
+        "name": "Peter Schinske",
+        "major": "Computer Science",
+        "email": "peter.schinske@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Electronics Assistant Lead",
+        "name": "Daniel Young",
+        "major": "Electrical Engineering",
+        "email": "daniel.young@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Ergonomics Lead",
+        "name": "Ingrid Shipstead",
+        "major": "Manufacturing Engineering",
+        "email": "ingrid.shipstead@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Ergonomics Assistant Lead",
+        "name": "Jocelyn Ocampo",
+        "major": "Manufacturing Engineering",
+        "email": "jocelyn.ocampo@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Powertrain Lead",
+        "name": "Chandler Johnston",
+        "major": "Electrical Engineering—Energy Concentration",
+        "email": "chandler.johnston@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Powertrain Assistant Lead",
+        "name": "Niklas Dolph",
+        "major": "Plastics and Composites Engineering",
+        "email": "niklas.dolph@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Suspension Lead",
+        "name": "Matthew Evanoff",
+        "major": "Plastics and Composites Engineering",
+        "email": "matthew.evanoff@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Western Washington University",
+        "team type": "Combustion",
+        "role": "Suspension Assistant Lead",
+        "name": "Alexander West",
+        "major": "Plastics and Composites Engineering",
+        "email": "alexander.west@wwufsae.com",
+        "linkedin": "https://www.linkedin.com/in/sean-lawrence-793a77183/"
+    },
+    {
+        "school": "Virginia Tech",
+        "team type": "Combustion",
+        "role": "Team Lead",
+        "name": "Josh Kintz",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "joshk919@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/joshua-kintz-257091161/"
+    },
+    {
+        "school": "Virginia Tech",
+        "team type": "Combustion",
+        "role": "Suspension Lead",
+        "name": "Matt Watterson",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "mwatters@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/matthew-watterson-a3805a160/"
+    },
+    {
+        "school": "Virginia Tech",
+        "team type": "Combustion",
+        "role": "​Electric Powertrain Lead",
+        "name": "Adam Yi",
+        "major": "Electrical Engineering: Energy and Power Electronics",
+        "graduation year": 2021,
+        "email": "adamkyi@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/adam-y-a3767812a/"
+    },
+    {
+        "school": "Virginia Tech",
+        "team type": "Combustion",
+        "role": "​Drivetrain Lead",
+        "name": "Srivatsa Harish",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "sharish@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/srivatsa-harish/"
+    },
+    {
+        "school": "Virginia Tech",
+        "team type": "Combustion",
+        "role": "Engine Lead",
+        "name": "Tyler Martin",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "tyler18@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/tyler-martin-790a521ba/"
+    },
+    {
+        "school": "Virginia Tech",
+        "team type": "Combustion",
+        "role": "Testing Lead",
+        "name": "Haley Simkins",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "haleyss@vt.edu",
+        "linkedin": "https://www.linkedin.com/in/haley-simkins-1b20a4182/"
+    },
+    {
+        "school": "University of Texas Arlington",
+        "team type": "Combustion",
+        "role": "Chief Engineer",
+        "name": "Dylan White",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/dylan-t-white/"
+    },
+    {
+        "school": "University of Texas Arlington",
+        "team type": "Combustion",
+        "role": "Composites Lead",
+        "name": "Kencey Christopher",
+        "major": "Visual Communication",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/kencey-christopher-28a0b0210/"
+    },
+    {
+        "school": "University of Texas Arlington",
+        "team type": "Combustion",
+        "role": "Suspension Lead",
+        "name": "Chris Dunn",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/christopher-dunn-7805a4212/"
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Powertrain Team",
+        "name": "Max Boslaugh",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/maxboslaugh/"
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Electrical Lead",
+        "name": "Grace Larsen",
+        "major": "Electrical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/grace-larsen-7772041a3/"
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Suspension Team",
+        "name": "Joseph Ehrisman",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/joseph-ehrisman-558569201/"
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Shop Manager",
+        "name": "Kyle Bohling",
+        "major": "Mech Systems",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/kyle-bohling-411693208/"
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Suspension Team",
+        "name": "Peyton Stanczyk",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/peyton-stanczyk-629b7a171/",
+        "employed": true
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Aerodynamics Lead",
+        "name": "Kaleab Mengistu",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/kaleab-mengistu-6476a5192/"
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Captain",
+        "name": "John Kolar",
+        "graduation year": 2021,
+        "email": "johnkolar@huskers.unl.edu",
+        "phone": "(248)-688-7444",
+        "linkedin": "https://www.linkedin.com/in/john-kolar-36469520b/"
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Project Manager",
+        "name": "Galen Kramer",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/galen-kramer-9b42851b5/",
+        "employed": true
+    },
+    {
+        "school": "University of Nebraska",
+        "team type": "Combustion",
+        "role": "Project Manager",
+        "name": "Andrew Johnson",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/andrew-johnson-487405149/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Combustion",
+        "role": "Team Captain",
+        "name": "Jared Dirksen",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jareddirksen/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Combustion",
+        "role": "Chassis Director",
+        "name": "Jacob Thayer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jacob-thayer-9757771b1/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Combustion",
+        "role": "Driver Interface Lead",
+        "name": "Jackson MacLeod",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jackson-macleod-7101b2154/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Combustion",
+        "role": "Monocoque Lead",
+        "name": "Jefferson Wang",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jefferson-wang-2853a216b/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Combustion",
+        "role": "Driver",
+        "name": "Jackson MacLeod",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jackson-macleod-7101b2154/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Electric",
+        "role": "Project Manager",
+        "name": "Sean Phelan",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "Sphel@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/sean-phelan-426225212/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Electric",
+        "role": "Technical Lead",
+        "name": "Fred Ouding",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "Fredavis@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/frederick-ouding-aab9b2192/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Electric",
+        "role": "Aerodynamics Lead",
+        "name": "Mitchell Houghtaling",
+        "major": "Aerospace Engineering",
+        "graduation year": 2021,
+        "email": "Houghtm@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/mitchell-houghtaling-709b3013b/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Electric",
+        "role": "Public Relations Chair",
+        "name": "Sahil Saini",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "email": "sssaini@umich.edu",
+        "linkedin": "https://www.linkedin.com/in/sahil-saini-011/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Baja",
+        "role": "Four Wheel Drive, Treasurer",
+        "name": "Stephanie Fox",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/stephaniefox2317/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Baja",
+        "role": "Gearbox & Four Wheel Drive",
+        "name": "Mitchell Hayes",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/mitchellhayes2021/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Baja",
+        "role": "Technical Director",
+        "name": "Carlos Cipollitti",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/carlos-daniel-cipollitti/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Baja",
+        "role": "Suspension Structures",
+        "name": "Leo Santos",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/leonardodsantos/"
+    },
+    {
+        "school": "University of Michigan",
+        "team type": "Baja",
+        "role": "Suspension Kinematics",
+        "name": "Julian Malevanets",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/julianmalevanets/",
+        "employed": true
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "VP of Energetics, Core Grounded Low Voltage, Firmware, High Voltage Accumulator, High Voltage Tractive Systems",
+        "name": "Oliver Wang",
+        "major": "Computer Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/oliverdwang/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "VP of Finance, Chassis",
+        "name": "Julia Lu",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/julia-lu22/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "VP of Marketing and Outreach, Driver Interface Manager",
+        "name": "Danny Marks",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/daniel-marks-297546193/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "Steering Wheel, Core Grounded Low Voltage",
+        "name": "Nick Saizan",
+        "major": "Electrical and Computer Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/nsaizan/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "Suspension Manager",
+        "name": "Luis Martinez",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/luis-martinez-5b5ab51ab/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "Uprights",
+        "name": "Jac Council",
+        "major": "Computer Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jac-council-a71660155/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "Welding",
+        "name": "Terrence Frey",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/terrance-frey-6060ab184/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "Control Arms",
+        "name": "Justin Chung",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/justin-chung-109364171/"
+    },
+    {
+        "school": "Carnegie Mellon University",
+        "team type": "Electric",
+        "role": "Steering",
+        "name": "Eli Zidel",
+        "major": "Mechanical Engineering, Public Policy",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/elizidel/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Electric",
+        "role": "Secretary and Powertrain Lead",
+        "name": "Natalie Allen",
+        "email": "nja28@zips.uakron.edu",
+        "major": "Bioengineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/natalie-allen-2021/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Electric",
+        "role": "Vehicle Dynamics Lead",
+        "name": "Andrew Penlington",
+        "major": "Supply Chain Management",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/andrew-penlington-782258140/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Electric",
+        "role": "Team Captain, Suspension Lead",
+        "name": "Akos Jasper",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/akos-jasper/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Electric",
+        "role": "Accumulator Lead and Welder",
+        "name": "Jimmy Volcansek",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/james-volcansek-442830165/",
+        "employed": true
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Electric",
+        "role": "Mechanical Support",
+        "name": "Megan McDivitt",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/megan-mcdivitt-487135147/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Vehicle Dynamics Lead",
+        "name": "Michael Metropoulos",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/michael-metropoulos-30a620171/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Brakes Lead",
+        "name": "Robert Kucera",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/robert-kucera-b4652b171/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Engine Support",
+        "name": "Jordan Blake",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/jordan-blake-a87a43119/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Engine Support",
+        "name": "Troy Smith",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/troy-smith-304a3b201/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Chassis Lead",
+        "name": "Stuart Thornborough",
+        "major": "Mechanical Engineering, Material Science, Vehicle Dynamics",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/stuart-thornborough-a1b4a11b9/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Composites Lead",
+        "name": "Henry Wathen",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/henry-wathen-367469172/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Manufacturing Support",
+        "name": "Auston Obringer",
+        "major": "Mechanical Engineering",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/auston-obringer-8021861a7/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Composites Support",
+        "name": "Calan Wensing",
+        "linkedin": "https://www.linkedin.com/in/calan-wensing-aa8b06210/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Composites Support",
+        "name": "Luke Musil",
+        "linkedin": "https://www.linkedin.com/in/luke-musil-7a949b1bb/"
+    },
+    {
+        "school": "University of Akron",
+        "team type": "Combustion",
+        "role": "Business Support",
+        "name": "Bershann Bounds",
+        "major": "Accounting",
+        "graduation year": 2021,
+        "linkedin": "https://www.linkedin.com/in/bershannb/"
+    }
+]
