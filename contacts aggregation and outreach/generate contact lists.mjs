@@ -1,7 +1,6 @@
 import fs from "fs"
-import {} from "json2csv"
 
-let students = JSON.parse(fs.readFileSync("./all fsae students.json"))
+let students = JSON.parse(fs.readFileSync("all fsae students.json"))
 
 let graduates_in_2021 = (student) => (student["graduation year"] == 2021)
 let we_dont_know_graduation_year = (student) => !student["graduation year"]
