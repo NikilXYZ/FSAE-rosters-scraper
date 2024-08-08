@@ -1,5 +1,5 @@
 # FSAE Rosters scraper
-I wrote this to help me recruit amazing talent for my startup.
+I wrote this in 2021 to help me recruit amazing talent for my startup.
 
 FSAE racing teams are some of the only college organizations where students have to learn to build real functional products - in this case, functional (sometimes fully electric) race cars that don't explode!
 I was on the Penn Electric Racing team (while we had the record for fastest accelerating electric car in the world, faster than Tesla), and the amount I learned in just a year was unparalleled.
